@@ -1,0 +1,3755 @@
+[
+  {
+    "name": "Intel Core 2 Duo E8400 2 3 GHz Wolfdale 65 W None",
+    "price": "€29.90",
+    "url": "https://fr.pcpartpicker.com/product/Kwbp99/intel-cpu-eu80570pj0806m",
+    "raw_text": "Intel Core 2 Duo E8400\n2 3 GHz Wolfdale 65 W None (4) €29.90Add",
+    "scraped_at": "2025-09-21T05:25:40.030015",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E5-2630 V3 8 2",
+    "price": "€37.99",
+    "url": "https://fr.pcpartpicker.com/product/JZx9TW/intel-cpu-cm8064401831000",
+    "raw_text": "Intel Xeon E5-2630 V3\n8 2.4 GHz 3.2 GHz Haswell 85 W None (1) €37.99Add",
+    "scraped_at": "2025-09-21T05:25:40.035370",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium E2220 2 2",
+    "price": "€42.00",
+    "url": "https://fr.pcpartpicker.com/product/fWsKHx/intel-cpu-bx80557e2220",
+    "raw_text": "Intel Pentium E2220\n2 2.4 GHz Core 65 W None (0) €42.00Add",
+    "scraped_at": "2025-09-21T05:25:40.041313",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G5905 2 3",
+    "price": "€47.52",
+    "url": "https://fr.pcpartpicker.com/product/NyNgXL/intel-celeron-g5905-56-ghz-dual-core-oemtray-processor-cm8070104292115",
+    "raw_text": "Intel Celeron G5905\n2 3.5 GHz Comet Lake 58 W Intel UHD Graphics 610 (0) €47.52Add",
+    "scraped_at": "2025-09-21T05:25:40.046906",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G3900 2 2",
+    "price": "€49.95",
+    "url": "https://fr.pcpartpicker.com/product/x78H99/intel-cpu-cm8066201928610",
+    "raw_text": "Intel Celeron G3900\n2 2.8 GHz Skylake 51 W Intel HD Graphics 510 (0) €49.95Add",
+    "scraped_at": "2025-09-21T05:25:40.058431",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Athlon X2 370K 2 4",
+    "price": "€49.95",
+    "url": "https://fr.pcpartpicker.com/product/kx7wrH/amd-cpu-ad370kokhlbox",
+    "raw_text": "AMD Athlon X2 370K\n2 4.2 GHz Piledriver 65 W None (0) €49.95Add",
+    "scraped_at": "2025-09-21T05:25:40.064303",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E3-1220 V5 4 3 GHz 3",
+    "price": "€50.17",
+    "url": "https://fr.pcpartpicker.com/product/C3Z2FT/intel-cpu-cm8066201921804",
+    "raw_text": "Intel Xeon E3-1220 V5\n4 3 GHz 3.5 GHz Skylake 80 W None (0) €50.17Add",
+    "scraped_at": "2025-09-21T05:25:40.070020",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G5925 2 3",
+    "price": "€52.00",
+    "url": "https://fr.pcpartpicker.com/product/FpXYcf/intel-celeron-g5925-36-ghz-dual-core-processor-bx80701g5925",
+    "raw_text": "Intel Celeron G5925\n2 3.6 GHz Comet Lake 58 W Intel UHD Graphics 610 (0) €52.00Add",
+    "scraped_at": "2025-09-21T05:25:40.075359",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Athlon 3000G",
+    "price": "€54.21",
+    "url": "https://fr.pcpartpicker.com/product/664BD3/amd-athlon-3000g-35-ghz-dual-core-processor-yd3000c6fhbox",
+    "raw_text": "AMD Athlon 3000G (14nm)\n2 3.5 GHz Zen 35 W Radeon Vega 3 (21) €54.21Add",
+    "scraped_at": "2025-09-21T05:25:40.080592",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron E3400 2 2",
+    "price": "€55.72",
+    "url": "https://fr.pcpartpicker.com/product/CxvRsY/intel-cpu-bx80571e3400",
+    "raw_text": "Intel Celeron E3400\n2 2.6 GHz Wolfdale 65 W None (0) €55.72Add",
+    "scraped_at": "2025-09-21T05:25:40.085696",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 3 4100",
+    "price": "€57.00",
+    "url": "https://fr.pcpartpicker.com/product/drBG3C/amd-ryzen-3-4100-38-ghz-quad-core-processor-100-100000510box",
+    "raw_text": "AMD Ryzen 3 4100\n4 3.8 GHz 4 GHz Zen 2 65 W None (5) €57.00Add",
+    "scraped_at": "2025-09-21T05:25:40.090851",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron E1500 2 2",
+    "price": "€58.99",
+    "url": "https://fr.pcpartpicker.com/product/8V8Zxr/intel-cpu-bx80557e1500",
+    "raw_text": "Intel Celeron E1500\n2 2.2 GHz Core 65 W None (0) €58.99Add",
+    "scraped_at": "2025-09-21T05:25:40.096089",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G5900 2 3",
+    "price": "€59.00",
+    "url": "https://fr.pcpartpicker.com/product/37gQzy/intel-celeron-g5900-34-ghz-dual-core-processor-bx80701g5900",
+    "raw_text": "Intel Celeron G5900\n2 3.4 GHz Comet Lake 58 W Intel UHD Graphics 610 (2) €59.00Add",
+    "scraped_at": "2025-09-21T05:25:40.101494",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 3600",
+    "price": "€60.90",
+    "url": "https://fr.pcpartpicker.com/product/9nm323/amd-ryzen-5-3600-36-thz-6-core-processor-100-100000031box",
+    "raw_text": "AMD Ryzen 5 3600\n6 3.6 GHz 4.2 GHz Zen 2 65 W None (1183) €60.90Add",
+    "scraped_at": "2025-09-21T05:25:40.106806",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-2400S",
+    "price": "€60.99",
+    "url": "https://fr.pcpartpicker.com/product/B3phP6/intel-cpu-bx80623i52400s",
+    "raw_text": "Intel Core i5-2400S\n4 2.5 GHz Sandy Bridge 65 W Intel HD Graphics 2000 (0) €60.99Add",
+    "scraped_at": "2025-09-21T05:25:40.111822",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-7100T",
+    "price": "€61.95",
+    "url": "https://fr.pcpartpicker.com/product/QNTrxr/intel-core-i3-7100t-34ghz-dual-core-oemtray-processor-cm8067703015913",
+    "raw_text": "Intel Core i3-7100T\n2 3.4 GHz Kaby Lake 35 W Intel HD Graphics 630 (1) €61.95Add",
+    "scraped_at": "2025-09-21T05:25:40.122337",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD A6-9500E 2 3 GHz 3",
+    "price": "€61.99",
+    "url": "https://fr.pcpartpicker.com/product/YRL7YJ/amd-a6-9500e-30ghz-dual-core-processor-ad9500ahabbox",
+    "raw_text": "AMD A6-9500E\n2 3 GHz 3.4 GHz Excavator 35 W Radeon R5 (on die) (0) €61.99Add",
+    "scraped_at": "2025-09-21T05:25:40.127502",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-2120",
+    "price": "€62.99",
+    "url": "https://fr.pcpartpicker.com/product/2CXfrH/intel-cpu-bx80623i32120",
+    "raw_text": "Intel Core i3-2120\n2 3.3 GHz Sandy Bridge 65 W Intel HD Graphics 2000 (16) €62.99Add",
+    "scraped_at": "2025-09-21T05:25:40.132819",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-12100F",
+    "price": "€64.26",
+    "url": "https://fr.pcpartpicker.com/product/grhFf7/intel-core-i3-12100f-33-ghz-quad-core-processor-bx8071512100f",
+    "raw_text": "Intel Core i3-12100F\n4 3.3 GHz 4.3 GHz Alder Lake 58 W None (56) €64.26Add",
+    "scraped_at": "2025-09-21T05:25:40.138348",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 3 3200G",
+    "price": "€64.56",
+    "url": "https://fr.pcpartpicker.com/product/J8drxr/amd-ryzen-3-3200g-36-ghz-quad-core-processor-yd3200c5fhbox",
+    "raw_text": "AMD Ryzen 3 3200G\n4 3.6 GHz 4 GHz Zen+ 65 W Radeon Vega 8 (63) €64.56Add",
+    "scraped_at": "2025-09-21T05:25:40.143777",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD FX-6350 6 3",
+    "price": "€65.00",
+    "url": "https://fr.pcpartpicker.com/product/HqGkcf/amd-cpu-fd6350frhkbox",
+    "raw_text": "AMD FX-6350\n6 3.9 GHz Piledriver 125 W None (49) €65.00Add",
+    "scraped_at": "2025-09-21T05:25:40.148982",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E3-1220 V3 4 3",
+    "price": "€65.86",
+    "url": "https://fr.pcpartpicker.com/product/dY3RsY/intel-cpu-bx80646e31220v3",
+    "raw_text": "Intel Xeon E3-1220 V3\n4 3.1 GHz 3.5 GHz Haswell 80 W None (2) €65.86Add",
+    "scraped_at": "2025-09-21T05:25:40.154084",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-6100",
+    "price": "€67.18",
+    "url": "https://fr.pcpartpicker.com/product/hV7CmG/intel-cpu-bx80662i36100",
+    "raw_text": "Intel Core i3-6100\n2 3.7 GHz Skylake 51 W Intel HD Graphics 530 (159) €67.18Add",
+    "scraped_at": "2025-09-21T05:25:40.159029",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 4500",
+    "price": "€67.30",
+    "url": "https://fr.pcpartpicker.com/product/m8BG3C/amd-ryzen-5-4500-36-ghz-6-core-processor-100-100000644box",
+    "raw_text": "AMD Ryzen 5 4500\n6 3.6 GHz 4.1 GHz Zen 2 65 W None (23) €67.30Add",
+    "scraped_at": "2025-09-21T05:25:40.164367",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 3400G",
+    "price": "€69.20",
+    "url": "https://fr.pcpartpicker.com/product/XP6qqs/amd-ryzen-5-3400g-37-ghz-quad-core-processor-ryzen-5-3400g",
+    "raw_text": "AMD Ryzen 5 3400G\n4 3.7 GHz 4.2 GHz Zen+ 65 W Radeon Vega 11 (55) €69.20Add",
+    "scraped_at": "2025-09-21T05:25:40.169464",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-10100F",
+    "price": "€69.70",
+    "url": "https://fr.pcpartpicker.com/product/r8Dkcf/intel-core-i3-10100f-36-ghz-quad-core-processor-bx8070110100f",
+    "raw_text": "Intel Core i3-10100F\n4 3.6 GHz 4.3 GHz Comet Lake 65 W None (26) €69.70Add",
+    "scraped_at": "2025-09-21T05:25:40.174360",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G3930 2 2",
+    "price": "€69.98",
+    "url": "https://fr.pcpartpicker.com/product/WqVBD3/intel-celeron-g3930-29ghz-dual-core-processor-bx80677g3930",
+    "raw_text": "Intel Celeron G3930\n2 2.9 GHz Kaby Lake 51 W Intel HD Graphics 610 (3) €69.98Add",
+    "scraped_at": "2025-09-21T05:25:40.179535",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium G3220 2 3 GHz Haswell 54 W Intel HD Graphics",
+    "price": "€69.98",
+    "url": "https://fr.pcpartpicker.com/product/RtPfrH/intel-cpu-bx80646g3220",
+    "raw_text": "Intel Pentium G3220\n2 3 GHz Haswell 54 W Intel HD Graphics (18) €69.98Add",
+    "scraped_at": "2025-09-21T05:25:40.184554",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G6900 2 3",
+    "price": "€72.93",
+    "url": "https://fr.pcpartpicker.com/product/QKbTwP/intel-celeron-g6900-34-ghz-dual-core-processor-bx80715g6900",
+    "raw_text": "Intel Celeron G6900\n2 3.4 GHz Alder Lake 46 W Intel UHD Graphics 710 (1) €72.93Add",
+    "scraped_at": "2025-09-21T05:25:40.195270",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium Gold G6405 2 4",
+    "price": "€72.98",
+    "url": "https://fr.pcpartpicker.com/product/gCzhP6/intel-pentium-gold-g6405-41-ghz-dual-core-processor-bx80701g6405",
+    "raw_text": "Intel Pentium Gold G6405\n2 4.1 GHz Comet Lake 58 W Intel UHD Graphics 610 (0) €72.98Add",
+    "scraped_at": "2025-09-21T05:25:40.200556",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-6400",
+    "price": "€73.84",
+    "url": "https://fr.pcpartpicker.com/product/rK4NnQ/intel-cpu-bx80662i56400",
+    "raw_text": "Intel Core i5-6400\n4 2.7 GHz 3.3 GHz Skylake 65 W Intel HD Graphics 530 (44) €73.84Add",
+    "scraped_at": "2025-09-21T05:25:40.206507",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 5500",
+    "price": "€73.90",
+    "url": "https://fr.pcpartpicker.com/product/yq2WGX/amd-ryzen-5-5500-36-ghz-6-core-processor-100-100000457box",
+    "raw_text": "AMD Ryzen 5 5500\n6 3.6 GHz 4.2 GHz Zen 3 65 W None (78) €73.90Add",
+    "scraped_at": "2025-09-21T05:25:40.212134",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G1820 2 2",
+    "price": "€75.00",
+    "url": "https://fr.pcpartpicker.com/product/W67wrH/intel-cpu-bx80646g1820",
+    "raw_text": "Intel Celeron G1820\n2 2.7 GHz Haswell 53 W Intel HD Graphics (3) €75.00Add",
+    "scraped_at": "2025-09-21T05:25:40.217665",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E5-1620 V4 4 3",
+    "price": "€76.98",
+    "url": "https://fr.pcpartpicker.com/product/9t7CmG/intel-xeon-e5-1620-v4-35ghz-quad-core-oemtray-processor-cm8066002044103",
+    "raw_text": "Intel Xeon E5-1620 V4\n4 3.5 GHz 3.8 GHz Broadwell 140 W None (0) €76.98Add",
+    "scraped_at": "2025-09-21T05:25:40.222847",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G1840 2 2",
+    "price": "€76.98",
+    "url": "https://fr.pcpartpicker.com/product/PTdqqs/intel-cpu-bx80646g1840",
+    "raw_text": "Intel Celeron G1840\n2 2.8 GHz Haswell Refresh 53 W Intel HD Graphics (5) €76.98Add",
+    "scraped_at": "2025-09-21T05:25:40.227850",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium G3250 2 3",
+    "price": "€76.98",
+    "url": "https://fr.pcpartpicker.com/product/KMPfrH/intel-cpu-bx80646g3250",
+    "raw_text": "Intel Pentium G3250\n2 3.2 GHz Haswell Refresh 53 W Intel HD Graphics (2) €76.98Add",
+    "scraped_at": "2025-09-21T05:25:40.233295",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-10105F",
+    "price": "€78.00",
+    "url": "https://fr.pcpartpicker.com/product/hYgFf7/intel-core-i3-10105f-37-ghz-quad-core-processor-bx8070110105f",
+    "raw_text": "Intel Core i3-10105F\n4 3.7 GHz 4.4 GHz Comet Lake 65 W None (5) €78.00Add",
+    "scraped_at": "2025-09-21T05:25:40.238893",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-6500",
+    "price": "€78.88",
+    "url": "https://fr.pcpartpicker.com/product/xwhj4D/intel-cpu-bx80662i56500",
+    "raw_text": "Intel Core i5-6500\n4 3.2 GHz 3.6 GHz Skylake 65 W Intel HD Graphics 530 (233) €78.88Add",
+    "scraped_at": "2025-09-21T05:25:40.244469",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium Gold G6400 2 4 GHz Comet Lake 58 W Intel UHD Graphics 610",
+    "price": "€79.80",
+    "url": "https://fr.pcpartpicker.com/product/FvCFf7/intel-pentium-gold-g6400-4-ghz-dual-core-processor-bx80701g6400",
+    "raw_text": "Intel Pentium Gold G6400\n2 4 GHz Comet Lake 58 W Intel UHD Graphics 610 (2) €79.80Add",
+    "scraped_at": "2025-09-21T05:25:40.249759",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-4150",
+    "price": "€80.09",
+    "url": "https://fr.pcpartpicker.com/product/qMJwrH/intel-cpu-bx80646i34150",
+    "raw_text": "Intel Core i3-4150\n2 3.5 GHz Haswell Refresh 54 W Intel HD Graphics 4400 (35) €80.09Add",
+    "scraped_at": "2025-09-21T05:25:40.255143",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium G4400 2 3",
+    "price": "€80.37",
+    "url": "https://fr.pcpartpicker.com/product/YV7CmG/intel-cpu-bx80662g4400",
+    "raw_text": "Intel Pentium G4400\n2 3.3 GHz Skylake 54 W Intel HD Graphics 510 (31) €80.37Add",
+    "scraped_at": "2025-09-21T05:25:40.260583",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E5-2620 6 2 GHz Sandy Bridge 95 W None",
+    "price": "€85.59",
+    "url": "https://fr.pcpartpicker.com/product/2Q8Zxr/intel-cpu-cm8063501288301",
+    "raw_text": "Intel Xeon E5-2620\n6 2 GHz Sandy Bridge 95 W None (0) €85.59Add",
+    "scraped_at": "2025-09-21T05:25:40.271940",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-13100F",
+    "price": "€85.79",
+    "url": "https://fr.pcpartpicker.com/product/9MGbt6/intel-core-i3-13100f-34-ghz-quad-core-processor-bx8071513100f",
+    "raw_text": "Intel Core i3-13100F\n4 3.4 GHz 4.5 GHz Raptor Lake 58 W None (4) €85.79Add",
+    "scraped_at": "2025-09-21T05:25:40.277324",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-7400",
+    "price": "€88.88",
+    "url": "https://fr.pcpartpicker.com/product/qnM323/intel-core-i5-7400-30ghz-quad-core-processor-bx80677i57400",
+    "raw_text": "Intel Core i5-7400\n4 3 GHz 3.5 GHz Kaby Lake 65 W Intel HD Graphics 630 (15) €88.88Add",
+    "scraped_at": "2025-09-21T05:25:40.283102",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium G2120 2 3",
+    "price": "€89.20",
+    "url": "https://fr.pcpartpicker.com/product/PZphP6/intel-cpu-bx80637g2120",
+    "raw_text": "Intel Pentium G2120\n2 3.1 GHz Ivy Bridge 55 W Intel HD Graphics (2) €89.20Add",
+    "scraped_at": "2025-09-21T05:25:40.288649",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-14100F",
+    "price": "€90.43",
+    "url": "https://fr.pcpartpicker.com/product/R7qrxr/intel-core-i3-14100f-35-ghz-quad-core-processor-bx8071514100f",
+    "raw_text": "Intel Core i3-14100F\n4 3.5 GHz 4.7 GHz Raptor Lake Refresh 58 W None (1) €90.43Add",
+    "scraped_at": "2025-09-21T05:25:40.305253",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-530",
+    "price": "€90.60",
+    "url": "https://fr.pcpartpicker.com/product/2Jdqqs/intel-cpu-bx80616i3530",
+    "raw_text": "Intel Core i3-530\n2 2.93 GHz Westmere 73 W Intel HD Graphics (1) €90.60Add",
+    "scraped_at": "2025-09-21T05:25:40.310828",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-4160",
+    "price": "€92.99",
+    "url": "https://fr.pcpartpicker.com/product/XVtCmG/intel-cpu-bx80646i34160",
+    "raw_text": "Intel Core i3-4160\n2 3.6 GHz Haswell Refresh 54 W Intel HD Graphics 4400 (27) €92.99Add",
+    "scraped_at": "2025-09-21T05:25:40.316486",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E5-2623 V3 4 3 GHz 3",
+    "price": "€92.99",
+    "url": "https://fr.pcpartpicker.com/product/39Trxr/intel-cpu-cm8064401832000",
+    "raw_text": "Intel Xeon E5-2623 V3\n4 3 GHz 3.5 GHz Haswell 105 W None (1) €92.99Add",
+    "scraped_at": "2025-09-21T05:25:40.327370",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron E1400 2 2 GHz Core 65 W None",
+    "price": "€94.05",
+    "url": "https://fr.pcpartpicker.com/product/VNV48d/intel-cpu-bx80557e1400",
+    "raw_text": "Intel Celeron E1400\n2 2 GHz Core 65 W None (0) €94.05Add",
+    "scraped_at": "2025-09-21T05:25:40.333402",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium G645 2 2",
+    "price": "€94.10",
+    "url": "https://fr.pcpartpicker.com/product/hb3RsY/intel-cpu-bx80623g645",
+    "raw_text": "Intel Pentium G645\n2 2.9 GHz Sandy Bridge 65 W Intel HD Graphics 2500 (0) €94.10Add",
+    "scraped_at": "2025-09-21T05:25:40.338821",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core 2 Duo E8200 2 2",
+    "price": "€95.63",
+    "url": "https://fr.pcpartpicker.com/product/X8ckcf/intel-cpu-bx80570e8200",
+    "raw_text": "Intel Core 2 Duo E8200\n2 2.66 GHz Wolfdale 65 W None (0) €95.63Add",
+    "scraped_at": "2025-09-21T05:25:40.344141",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-4170",
+    "price": "€98.88",
+    "url": "https://fr.pcpartpicker.com/product/hYrcCJ/intel-cpu-bx80646i34170",
+    "raw_text": "Intel Core i3-4170\n2 3.7 GHz Haswell Refresh 54 W Intel HD Graphics 4400 (22) €98.88Add",
+    "scraped_at": "2025-09-21T05:25:40.349557",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium Gold G5420 2 3",
+    "price": "€99.00",
+    "url": "https://fr.pcpartpicker.com/product/v2xbt6/intel-pentium-gold-g5420-38-ghz-dual-core-processor-bx80684g5420",
+    "raw_text": "Intel Pentium Gold G5420\n2 3.8 GHz Coffee Lake 54 W Intel UHD Graphics 610 (0) €99.00Add",
+    "scraped_at": "2025-09-21T05:25:40.354885",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel 300 2 3",
+    "price": "€99.26",
+    "url": "https://fr.pcpartpicker.com/product/FvkH99/intel-300-39-ghz-dual-core-processor-bx80715300",
+    "raw_text": "Intel 300\n2 3.9 GHz Raptor Lake Refresh 46 W Intel UHD Graphics 710 (0) €99.26Add",
+    "scraped_at": "2025-09-21T05:25:40.360457",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium Gold G7400 2 3",
+    "price": "€99.91",
+    "url": "https://fr.pcpartpicker.com/product/KsBG3C/intel-pentium-gold-g7400-37-ghz-dual-core-processor-bx80715g7400",
+    "raw_text": "Intel Pentium Gold G7400\n2 3.7 GHz Alder Lake 46 W Intel UHD Graphics 710 (0) €99.91Add",
+    "scraped_at": "2025-09-21T05:25:40.365844",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core 2 Quad Q9300 4 2",
+    "price": "€102.44",
+    "url": "https://fr.pcpartpicker.com/product/MzrG3C/intel-cpu-eu80580pj0606m",
+    "raw_text": "Intel Core 2 Quad Q9300\n4 2.5 GHz Yorkfield 95 W None (1) €102.44Add",
+    "scraped_at": "2025-09-21T05:25:40.371283",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium E6500 2 2",
+    "price": "€103.78",
+    "url": "https://fr.pcpartpicker.com/product/rKTmP6/intel-cpu-bx80571e6500",
+    "raw_text": "Intel Pentium E6500\n2 2.93 GHz Wolfdale 65 W None (0) €103.78Add",
+    "scraped_at": "2025-09-21T05:25:40.377137",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-10400F",
+    "price": "€103.94",
+    "url": "https://fr.pcpartpicker.com/product/vrhmP6/intel-core-i5-10400f-29-ghz-6-core-processor-bx8070110400f",
+    "raw_text": "Intel Core i5-10400F\n6 2.9 GHz 4.3 GHz Comet Lake 65 W None (63) €103.94Add",
+    "scraped_at": "2025-09-21T05:25:40.382770",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Phenom II X2 560 Black 2 3",
+    "price": "€105.00",
+    "url": "https://fr.pcpartpicker.com/product/Y6zv6h/amd-cpu-hdz560wfgmbox",
+    "raw_text": "AMD Phenom II X2 560 Black\n2 3.3 GHz K10 80 W None (0) €105.00Add",
+    "scraped_at": "2025-09-21T05:25:40.388098",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-10105",
+    "price": "€105.20",
+    "url": "https://fr.pcpartpicker.com/product/Xht9TW/intel-core-i3-10105-37-ghz-quad-core-processor-bx8070110105",
+    "raw_text": "Intel Core i3-10105\n4 3.7 GHz 4.4 GHz Comet Lake 65 W Intel UHD Graphics 630 (4) €105.20Add",
+    "scraped_at": "2025-09-21T05:25:40.393722",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium Gold G6500 2 4",
+    "price": "€105.32",
+    "url": "https://fr.pcpartpicker.com/product/Qkyqqs/intel-pentium-gold-g6500-41-ghz-dual-core-processor-bx80701g6500",
+    "raw_text": "Intel Pentium Gold G6500\n2 4.1 GHz Comet Lake 58 W Intel UHD Graphics 630 (0) €105.32Add",
+    "scraped_at": "2025-09-21T05:25:40.399036",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-4570T",
+    "price": "€105.86",
+    "url": "https://fr.pcpartpicker.com/product/PhM323/intel-cpu-bx80646i54570t",
+    "raw_text": "Intel Core i5-4570T\n2 2.9 GHz Haswell 35 W Intel HD Graphics 4600 (1) €105.86Add",
+    "scraped_at": "2025-09-21T05:25:40.404159",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-8100",
+    "price": "€106.84",
+    "url": "https://fr.pcpartpicker.com/product/YqKhP6/intel-core-i3-8100-36ghz-4-core-processor-bx80684i38100",
+    "raw_text": "Intel Core i3-8100\n4 3.6 GHz Coffee Lake 65 W Intel UHD Graphics 630 (40) €106.84Add",
+    "scraped_at": "2025-09-21T05:25:40.409917",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 5600",
+    "price": "€108.90",
+    "url": "https://fr.pcpartpicker.com/product/PgcG3C/amd-ryzen-5-5600-36-ghz-6-core-processor-100-100000927box",
+    "raw_text": "AMD Ryzen 5 5600\n6 3.5 GHz 4.4 GHz Zen 3 65 W None (181) €108.90Add",
+    "scraped_at": "2025-09-21T05:25:40.415114",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E5-2637 V3 4 3",
+    "price": "€108.91",
+    "url": "https://fr.pcpartpicker.com/product/pp98TW/intel-cpu-cm8064401724101",
+    "raw_text": "Intel Xeon E5-2637 V3\n4 3.5 GHz 3.7 GHz Haswell 135 W None (0) €108.91Add",
+    "scraped_at": "2025-09-21T05:25:40.420271",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G4900 2 3",
+    "price": "€109.38",
+    "url": "https://fr.pcpartpicker.com/product/bWBTwP/intel-celeron-g4900-31ghz-dual-core-oemtray-processor-cm8068403378112",
+    "raw_text": "Intel Celeron G4900\n2 3.1 GHz Coffee Lake 65 W Intel UHD Graphics 610 (0) €109.38Add",
+    "scraped_at": "2025-09-21T05:25:40.425779",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 3 1200",
+    "price": "€113.77",
+    "url": "https://fr.pcpartpicker.com/product/TX4NnQ/amd-ryzen-3-1300x-35ghz-quad-core-processor-yd1200bbaebox",
+    "raw_text": "AMD Ryzen 3 1200 (14nm)\n4 3.1 GHz 3.4 GHz Zen 65 W None (69) €113.77Add",
+    "scraped_at": "2025-09-21T05:25:40.430827",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-10100",
+    "price": "€114.04",
+    "url": "https://fr.pcpartpicker.com/product/qtqBD3/intel-core-i3-10100-36-ghz-quad-core-processor-bx8070110100",
+    "raw_text": "Intel Core i3-10100\n4 3.6 GHz 4.3 GHz Comet Lake 65 W Intel UHD Graphics 630 (38) €114.04Add",
+    "scraped_at": "2025-09-21T05:25:40.435989",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-12100",
+    "price": "€118.96",
+    "url": "https://fr.pcpartpicker.com/product/qrhFf7/intel-core-i3-12100-33-ghz-quad-core-processor-bx8071512100",
+    "raw_text": "Intel Core i3-12100\n4 3.3 GHz 4.3 GHz Alder Lake 60 W Intel UHD Graphics 730 (16) €118.96Add",
+    "scraped_at": "2025-09-21T05:25:40.451372",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-2100",
+    "price": "€120.26",
+    "url": "https://fr.pcpartpicker.com/product/8Bn2FT/intel-cpu-bx80623i32100",
+    "raw_text": "Intel Core i3-2100\n2 3.1 GHz Sandy Bridge 65 W Intel HD Graphics 2000 (12) €120.26Add",
+    "scraped_at": "2025-09-21T05:25:40.456709",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 5500GT",
+    "price": "€120.67",
+    "url": "https://fr.pcpartpicker.com/product/VcvD4D/amd-ryzen-5-5500gt-36-ghz-6-core-processor-100-100001489box",
+    "raw_text": "AMD Ryzen 5 5500GT\n6 3.6 GHz 4.4 GHz Zen 3 65 W Radeon Vega 7 (5) €120.67Add",
+    "scraped_at": "2025-09-21T05:25:40.462028",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD FX-4350 4 4",
+    "price": "€122.63",
+    "url": "https://fr.pcpartpicker.com/product/pQphP6/amd-cpu-fd4350frhkbox",
+    "raw_text": "AMD FX-4350\n4 4.2 GHz Piledriver 125 W None (16) €122.63Add",
+    "scraped_at": "2025-09-21T05:25:40.467442",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": "€122.99",
+    "url": "https://fr.pcpartpicker.com/product/pQNxFT/intel-core-i5-12400f-25-ghz-6-core-processor-bx8071512400f",
+    "raw_text": "Intel Core i5-12400F\n6 2.5 GHz 4.4 GHz Alder Lake 65 W None (103) €122.99Add",
+    "scraped_at": "2025-09-21T05:25:40.472694",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium G4600 2 3",
+    "price": "€123.99",
+    "url": "https://fr.pcpartpicker.com/product/xJqbt6/intel-pentium-g4600-36ghz-dual-core-oemtray-processor-cm8067703015525",
+    "raw_text": "Intel Pentium G4600\n2 3.6 GHz Kaby Lake 51 W Intel HD Graphics 630 (0) €123.99Add",
+    "scraped_at": "2025-09-21T05:25:40.478027",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 7 5700",
+    "price": "€124.92",
+    "url": "https://fr.pcpartpicker.com/product/9NFmP6/amd-ryzen-7-5700-37-ghz-8-core-processor-100-000000743box",
+    "raw_text": "AMD Ryzen 7 5700\n8 3.7 GHz 4.6 GHz Zen 3 65 W None (4) €124.92Add",
+    "scraped_at": "2025-09-21T05:25:40.483144",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron E3300 2 2",
+    "price": "€125.36",
+    "url": "https://fr.pcpartpicker.com/product/MhXfrH/intel-cpu-bx80571e3300",
+    "raw_text": "Intel Celeron E3300\n2 2.5 GHz Wolfdale 65 W None (0) €125.36Add",
+    "scraped_at": "2025-09-21T05:25:40.488394",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i3-13100",
+    "price": "€125.79",
+    "url": "https://fr.pcpartpicker.com/product/RdjBD3/intel-core-i3-13100-34-ghz-quad-core-processor-bx8071513100",
+    "raw_text": "Intel Core i3-13100\n4 3.4 GHz 4.5 GHz Raptor Lake 60 W Intel UHD Graphics 730 (1) €125.79Add",
+    "scraped_at": "2025-09-21T05:25:40.493542",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium Gold G6600 2 4",
+    "price": "€126.28",
+    "url": "https://fr.pcpartpicker.com/product/KwFKHx/intel-pentium-gold-g6600-42-ghz-dual-core-processor-bx80701g6600",
+    "raw_text": "Intel Pentium Gold G6600\n2 4.2 GHz Comet Lake 58 W Intel UHD Graphics 630 (0) €126.28Add",
+    "scraped_at": "2025-09-21T05:25:40.498842",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Athlon 200GE 2 3",
+    "price": "€128.24",
+    "url": "https://fr.pcpartpicker.com/product/dFhKHx/amd-athlon-200ge-32ghz-dual-core-processor-yd200gc6fbbox",
+    "raw_text": "AMD Athlon 200GE\n2 3.2 GHz Zen 35 W Radeon Vega 3 (14) €128.24Add",
+    "scraped_at": "2025-09-21T05:25:40.503794",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-13400F",
+    "price": "€130.00",
+    "url": "https://fr.pcpartpicker.com/product/VNkWGX/intel-core-i5-13400f-25-ghz-10-core-processor-bx8071513400f",
+    "raw_text": "Intel Core i5-13400F\n10 2.5 GHz 4.6 GHz Raptor Lake 65 W None (19) €130.00Add",
+    "scraped_at": "2025-09-21T05:25:40.508814",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i7-920",
+    "price": "€130.38",
+    "url": "https://fr.pcpartpicker.com/product/tzrG3C/intel-cpu-bx80601920",
+    "raw_text": "Intel Core i7-920\n4 2.66 GHz Nehalem 130 W None (6) €130.38Add",
+    "scraped_at": "2025-09-21T05:25:40.514090",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron 430 1 1",
+    "price": "€130.82",
+    "url": "https://fr.pcpartpicker.com/product/tDvRsY/intel-cpu-bx80557430",
+    "raw_text": "Intel Celeron 430\n1 1.8 GHz Core 35 W None (0) €130.82Add",
+    "scraped_at": "2025-09-21T05:25:40.519143",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Celeron G3950 2 3 GHz Kaby Lake 51 W Intel HD Graphics 610",
+    "price": "€131.18",
+    "url": "https://fr.pcpartpicker.com/product/ZPL7YJ/intel-celeron-g3950-30ghz-dual-core-processor-bx80677g3950",
+    "raw_text": "Intel Celeron G3950\n2 3 GHz Kaby Lake 51 W Intel HD Graphics 610 (0) €131.18Add",
+    "scraped_at": "2025-09-21T05:25:40.524206",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Xeon E5-2640 V2 8 2 GHz 2",
+    "price": "€131.24",
+    "url": "https://fr.pcpartpicker.com/product/bqTmP6/intel-cpu-bx80635e52640v2",
+    "raw_text": "Intel Xeon E5-2640 V2\n8 2 GHz 2.5 GHz Ivy Bridge 95 W None (0) €131.24Add",
+    "scraped_at": "2025-09-21T05:25:40.529557",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 5600G",
+    "price": "€132.94",
+    "url": "https://fr.pcpartpicker.com/product/sYmmP6/amd-ryzen-5-5600g-39-ghz-6-core-processor-100-100000252box",
+    "raw_text": "AMD Ryzen 5 5600G\n6 3.9 GHz 4.4 GHz Zen 3 65 W Radeon Vega 7 (146) €132.94Add",
+    "scraped_at": "2025-09-21T05:25:40.534779",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Pentium G4560 2 3",
+    "price": "€133.80",
+    "url": "https://fr.pcpartpicker.com/product/mTVBD3/intel-pentium-g4560-35ghz-dual-core-oemtray-processor-cm8067702867064",
+    "raw_text": "Intel Pentium G4560\n2 3.5 GHz Kaby Lake 54 W Intel HD Graphics 610 (0) €133.80Add",
+    "scraped_at": "2025-09-21T05:25:40.540243",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "AMD Ryzen 5 5600GT",
+    "price": "€135.84",
+    "url": "https://fr.pcpartpicker.com/product/7XGhP6/amd-ryzen-5-5600gt-36-ghz-6-core-processor-100-100001488box",
+    "raw_text": "AMD Ryzen 5 5600GT\n6 3.6 GHz 4.6 GHz Zen 3 65 W Radeon Vega 7 (3) €135.84Add",
+    "scraped_at": "2025-09-21T05:25:40.545589",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-3470",
+    "price": "€137.99",
+    "url": "https://fr.pcpartpicker.com/product/PBCwrH/intel-cpu-bx80637i53470",
+    "raw_text": "Intel Core i5-3470\n4 3.2 GHz Ivy Bridge 77 W Intel HD Graphics 2500 (36) €137.99Add",
+    "scraped_at": "2025-09-21T05:25:40.550920",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i7-950",
+    "price": "€138.56",
+    "url": "https://fr.pcpartpicker.com/product/3LNp99/intel-cpu-bx80601950",
+    "raw_text": "Intel Core i7-950\n4 3.06 GHz Nehalem 130 W None (5) €138.56Add",
+    "scraped_at": "2025-09-21T05:25:40.555959",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-10400",
+    "price": "€138.82",
+    "url": "https://fr.pcpartpicker.com/product/X8snTW/intel-core-i5-10400-29-ghz-6-core-processor-bx8070110400",
+    "raw_text": "Intel Core i5-10400\n6 2.9 GHz 4.3 GHz Comet Lake 65 W Intel UHD Graphics 630 (62) €138.82Add",
+    "scraped_at": "2025-09-21T05:25:40.561172",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i7-6700",
+    "price": "€138.88",
+    "url": "https://fr.pcpartpicker.com/product/7V7CmG/intel-cpu-bx80662i76700",
+    "raw_text": "Intel Core i7-6700\n4 3.4 GHz 4 GHz Skylake 65 W Intel HD Graphics 530 (44) €138.88Add",
+    "scraped_at": "2025-09-21T05:25:40.566255",
+    "source": "fr.pcpartpicker.com",
+    "page": 1
+  },
+  {
+    "name": "Intel Core i5-7500",
+    "price": "€138.88",
+    "url": "https://fr.pcpartpicker.com/product/QbGj4D/intel-core-i5-7500-34ghz-quad-core-processor-bx80677i57500",
+    "raw_text": "Intel Core i5-7500\n4 3.4 GHz 3.8 GHz Kaby Lake 65 W Intel HD Graphics 630 (76) €138.88Add",
+    "scraped_at": "2025-09-21T05:25:49.945881",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E5-2680 V4 14 2",
+    "price": "€138.99",
+    "url": "https://fr.pcpartpicker.com/product/zqmxFT/intel-cpu-bx80660e52680v4",
+    "raw_text": "Intel Xeon E5-2680 V4\n14 2.4 GHz 3.3 GHz Broadwell 120 W None (2) €138.99Add",
+    "scraped_at": "2025-09-21T05:25:49.951482",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E5-1630 V4 4 3",
+    "price": "€138.99",
+    "url": "https://fr.pcpartpicker.com/product/cxVD4D/intel-xeon-e5-1630-v4-37ghz-quad-core-oemtray-processor-cm8066002395300",
+    "raw_text": "Intel Xeon E5-1630 V4\n4 3.7 GHz 4 GHz Broadwell 140 W None (0) €138.99Add",
+    "scraped_at": "2025-09-21T05:25:49.957129",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E5-2640 V3 8 2",
+    "price": "€138.99",
+    "url": "https://fr.pcpartpicker.com/product/b2FXsY/intel-cpu-bx80644e52640v3",
+    "raw_text": "Intel Xeon E5-2640 V3\n8 2.6 GHz 3.4 GHz Haswell 90 W None (1) €138.99Add",
+    "scraped_at": "2025-09-21T05:25:49.962473",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-2400",
+    "price": "€139.05",
+    "url": "https://fr.pcpartpicker.com/product/jxJwrH/intel-cpu-bx80623i52400",
+    "raw_text": "Intel Core i5-2400\n4 3.1 GHz Sandy Bridge 95 W Intel HD Graphics 2000 (17) €139.05Add",
+    "scraped_at": "2025-09-21T05:25:49.968333",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-14100",
+    "price": "€140.00",
+    "url": "https://fr.pcpartpicker.com/product/qtBzK8/intel-core-i3-14100-35-ghz-quad-core-processor-bx8071514100",
+    "raw_text": "Intel Core i3-14100\n4 3.5 GHz 4.7 GHz Raptor Lake Refresh 60 W Intel UHD Graphics 730 (0) €140.00Add",
+    "scraped_at": "2025-09-21T05:25:49.974004",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-4590",
+    "price": "€140.19",
+    "url": "https://fr.pcpartpicker.com/product/7bNp99/intel-cpu-bx80646i54590",
+    "raw_text": "Intel Core i5-4590\n4 3.3 GHz 3.7 GHz Haswell Refresh 84 W Intel HD Graphics 4600 (93) €140.19Add",
+    "scraped_at": "2025-09-21T05:25:49.979562",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Celeron G540 2 2",
+    "price": "€140.37",
+    "url": "https://fr.pcpartpicker.com/product/wfbp99/intel-cpu-bx80623g540",
+    "raw_text": "Intel Celeron G540\n2 2.5 GHz Sandy Bridge 65 W Intel HD Graphics (2) €140.37Add",
+    "scraped_at": "2025-09-21T05:25:49.985320",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 8400F",
+    "price": "€140.88",
+    "url": "https://fr.pcpartpicker.com/product/DpcgXL/amd-ryzen-5-8400f-42-ghz-6-core-processor-100-100001591box",
+    "raw_text": "AMD Ryzen 5 8400F\n6 4.2 GHz 4.7 GHz Zen 4 65 W None (4) €140.88Add",
+    "scraped_at": "2025-09-21T05:25:49.990837",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 7 5700G",
+    "price": "€141.25",
+    "url": "https://fr.pcpartpicker.com/product/ycGbt6/amd-ryzen-7-5700g-38-ghz-8-core-processor-100-100000263box",
+    "raw_text": "AMD Ryzen 7 5700G\n8 3.8 GHz 4.6 GHz Zen 3 65 W Radeon Vega 8 (53) €141.25Add",
+    "scraped_at": "2025-09-21T05:25:49.996282",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 7 5700X",
+    "price": "€142.00",
+    "url": "https://fr.pcpartpicker.com/product/JmhFf7/amd-ryzen-7-5700x-34-ghz-8-core-processor-100-100000926wof",
+    "raw_text": "AMD Ryzen 7 5700X\n8 3.4 GHz 4.6 GHz Zen 3 65 W None (118) €142.00Add",
+    "scraped_at": "2025-09-21T05:25:50.002043",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 5600XT",
+    "price": "€142.13",
+    "url": "https://fr.pcpartpicker.com/product/GY6NnQ/amd-ryzen-5-5600xt-37-ghz-6-core-processor-100-100001585box",
+    "raw_text": "AMD Ryzen 5 5600XT\n6 3.7 GHz 4.7 GHz Zen 3 65 W None (0) €142.13Add",
+    "scraped_at": "2025-09-21T05:25:50.007698",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 5600X",
+    "price": "€143.76",
+    "url": "https://fr.pcpartpicker.com/product/g94BD3/amd-ryzen-5-5600x-37-ghz-6-core-processor-100-100000065box",
+    "raw_text": "AMD Ryzen 5 5600X\n6 3.7 GHz 4.6 GHz Zen 3 65 W None (701) €143.76Add",
+    "scraped_at": "2025-09-21T05:25:50.013140",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 7 5800X",
+    "price": "€144.00",
+    "url": "https://fr.pcpartpicker.com/product/qtvqqs/amd-ryzen-7-5800x-38-ghz-8-core-processor-100-100000063wof",
+    "raw_text": "AMD Ryzen 7 5800X\n8 3.8 GHz 4.7 GHz Zen 3 105 W None (358) €144.00Add",
+    "scraped_at": "2025-09-21T05:25:50.018553",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-14400F",
+    "price": "€145.00",
+    "url": "https://fr.pcpartpicker.com/product/QkP8TW/intel-core-i5-14400f-25-ghz-10-core-processor-bx8071514400f",
+    "raw_text": "Intel Core i5-14400F\n10 2.5 GHz 4.7 GHz Raptor Lake Refresh 65 W None (1) €145.00Add",
+    "scraped_at": "2025-09-21T05:25:50.023821",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Celeron G4920 2 3",
+    "price": "€145.88",
+    "url": "https://fr.pcpartpicker.com/product/dMTPxr/intel-celeron-g4920-32ghz-dual-core-processor-bx80684g4920",
+    "raw_text": "Intel Celeron G4920\n2 3.2 GHz Coffee Lake 65 W Intel UHD Graphics 610 (0) €145.88Add",
+    "scraped_at": "2025-09-21T05:25:50.035288",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-10320",
+    "price": "€147.79",
+    "url": "https://fr.pcpartpicker.com/product/tZPgXL/intel-core-i3-10320-38-ghz-quad-core-processor-bx8070110320",
+    "raw_text": "Intel Core i3-10320\n4 3.8 GHz 4.6 GHz Comet Lake 65 W Intel UHD Graphics 630 (0) €147.79Add",
+    "scraped_at": "2025-09-21T05:25:50.041051",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD A6-3670K 4 2",
+    "price": "€149.00",
+    "url": "https://fr.pcpartpicker.com/product/QG8Zxr/amd-cpu-ad3670wngxbox",
+    "raw_text": "AMD A6-3670K\n4 2.7 GHz Lynx 100 W Radeon HD 6530D (0) €149.00Add",
+    "scraped_at": "2025-09-21T05:25:50.046903",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Pentium G860 2 3 GHz Sandy Bridge 65 W Intel HD Graphics",
+    "price": "€149.24",
+    "url": "https://fr.pcpartpicker.com/product/CnDwrH/intel-cpu-bx80623g860",
+    "raw_text": "Intel Pentium G860\n2 3 GHz Sandy Bridge 65 W Intel HD Graphics (7) €149.24Add",
+    "scraped_at": "2025-09-21T05:25:50.052181",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core 2 Duo E4300 2 1",
+    "price": "€149.54",
+    "url": "https://fr.pcpartpicker.com/product/cX7wrH/intel-cpu-bx80557e4300",
+    "raw_text": "Intel Core 2 Duo E4300\n2 1.8 GHz Core 65 W None (0) €149.54Add",
+    "scraped_at": "2025-09-21T05:25:50.057427",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-12600KF",
+    "price": "€151.00",
+    "url": "https://fr.pcpartpicker.com/product/Tk8bt6/intel-core-i5-12600kf-37-ghz-6-core-processor-bx8071512600kf",
+    "raw_text": "Intel Core i5-12600KF\n10 3.7 GHz 4.9 GHz Alder Lake 125 W None (92) €151.00Add",
+    "scraped_at": "2025-09-21T05:25:50.063129",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E5-1660 V3 8 3 GHz 3",
+    "price": "€154.53",
+    "url": "https://fr.pcpartpicker.com/product/DjZ2FT/intel-cpu-cm8064401909200",
+    "raw_text": "Intel Xeon E5-1660 V3\n8 3 GHz 3.5 GHz Haswell 140 W None (1) €154.53Add",
+    "scraped_at": "2025-09-21T05:25:50.068619",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-12400",
+    "price": "€154.80",
+    "url": "https://fr.pcpartpicker.com/product/tLKKHx/intel-core-i5-12400-25-ghz-6-core-processor-bx8071512400",
+    "raw_text": "Intel Core i5-12400\n6 2.5 GHz 4.4 GHz Alder Lake 65 W Intel UHD Graphics 730 (36) €154.80Add",
+    "scraped_at": "2025-09-21T05:25:50.074026",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 7500F",
+    "price": "€155.35",
+    "url": "https://fr.pcpartpicker.com/product/ms4Zxr/amd-ryzen-5-7500f-37-ghz-6-core-oemtray-processor-100-000000597",
+    "raw_text": "AMD Ryzen 5 7500F\n6 3.7 GHz 5 GHz Zen 4 65 W None (22) €155.35Add",
+    "scraped_at": "2025-09-21T05:25:50.079430",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD FX-8300 8 3",
+    "price": "€159.06",
+    "url": "https://fr.pcpartpicker.com/product/qmrcCJ/amd-cpu-fd8300wmhkbox",
+    "raw_text": "AMD FX-8300\n8 3.3 GHz Piledriver 95 W None (7) €159.06Add",
+    "scraped_at": "2025-09-21T05:25:50.084733",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 2600X",
+    "price": "€160.00",
+    "url": "https://fr.pcpartpicker.com/product/6mm323/amd-ryzen-5-2600x-36ghz-6-core-processor-yd260xbcafbox",
+    "raw_text": "AMD Ryzen 5 2600X\n6 3.6 GHz 4.2 GHz Zen+ 95 W None (231) €160.00Add",
+    "scraped_at": "2025-09-21T05:25:50.089954",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 8500G",
+    "price": "€164.98",
+    "url": "https://fr.pcpartpicker.com/product/y3XV3C/amd-ryzen-5-8500g-41-ghz-6-core-processor-100-100000931box",
+    "raw_text": "AMD Ryzen 5 8500G\n6 4.1 GHz 5 GHz Zen 4 65 W Radeon 740M (2) €164.98Add",
+    "scraped_at": "2025-09-21T05:25:50.100562",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Pentium E2140 2 1",
+    "price": "€166.83",
+    "url": "https://fr.pcpartpicker.com/product/2d7wrH/intel-cpu-bx80557e2140",
+    "raw_text": "Intel Pentium E2140\n2 1.6 GHz Core 65 W None (0) €166.83Add",
+    "scraped_at": "2025-09-21T05:25:50.105902",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Pentium E5300 2 2",
+    "price": "€167.75",
+    "url": "https://fr.pcpartpicker.com/product/HHFPxr/intel-cpu-at80571pg0642m",
+    "raw_text": "Intel Pentium E5300\n2 2.6 GHz Wolfdale 65 W None (0) €167.75Add",
+    "scraped_at": "2025-09-21T05:25:50.111137",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-3450S",
+    "price": "€167.84",
+    "url": "https://fr.pcpartpicker.com/product/x7xfrH/intel-cpu-bx80637i53450s",
+    "raw_text": "Intel Core i5-3450S\n4 2.8 GHz Ivy Bridge 65 W Intel HD Graphics 2500 (1) €167.84Add",
+    "scraped_at": "2025-09-21T05:25:50.121584",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-3770",
+    "price": "€168.88",
+    "url": "https://fr.pcpartpicker.com/product/Vjzv6h/intel-cpu-bx80637i73770",
+    "raw_text": "Intel Core i7-3770\n4 3.4 GHz Ivy Bridge 77 W Intel HD Graphics 4000 (50) €168.88Add",
+    "scraped_at": "2025-09-21T05:25:50.126910",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-9100F",
+    "price": "€168.88",
+    "url": "https://fr.pcpartpicker.com/product/YTbwrH/intel-core-i3-9100f-36-ghz-quad-core-processor-bx80684i39100f",
+    "raw_text": "Intel Core i3-9100F\n4 3.6 GHz 4.2 GHz Coffee Lake Refresh 65 W None (29) €168.88Add",
+    "scraped_at": "2025-09-21T05:25:50.132227",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-4770",
+    "price": "€168.88",
+    "url": "https://fr.pcpartpicker.com/product/sCNp99/intel-cpu-bx80646i74770",
+    "raw_text": "Intel Core i7-4770\n4 3.4 GHz 3.9 GHz Haswell 84 W Intel HD Graphics 4600 (45) €168.88Add",
+    "scraped_at": "2025-09-21T05:25:50.137386",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-2600",
+    "price": "€168.88",
+    "url": "https://fr.pcpartpicker.com/product/nvyFf7/intel-cpu-bx80623i72600",
+    "raw_text": "Intel Core i7-2600\n4 3.4 GHz Sandy Bridge 95 W Intel HD Graphics 2000 (19) €168.88Add",
+    "scraped_at": "2025-09-21T05:25:50.142579",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-6400T",
+    "price": "€169.00",
+    "url": "https://fr.pcpartpicker.com/product/mn7CmG/intel-cpu-cm8066201920000",
+    "raw_text": "Intel Core i5-6400T\n4 2.2 GHz 2.8 GHz Skylake 35 W Intel HD Graphics 530 (0) €169.00Add",
+    "scraped_at": "2025-09-21T05:25:50.147679",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E3-1270 V3 4 3",
+    "price": "€169.35",
+    "url": "https://fr.pcpartpicker.com/product/hJh9TW/intel-cpu-bx80646e31270v3",
+    "raw_text": "Intel Xeon E3-1270 V3\n4 3.5 GHz 3.9 GHz Haswell 80 W None (0) €169.35Add",
+    "scraped_at": "2025-09-21T05:25:50.153145",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-6320",
+    "price": "€169.86",
+    "url": "https://fr.pcpartpicker.com/product/qTCrxr/intel-cpu-cm8066201926904",
+    "raw_text": "Intel Core i3-6320\n2 3.9 GHz Skylake 51 W Intel HD Graphics 530 (0) €169.86Add",
+    "scraped_at": "2025-09-21T05:25:50.158213",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-4770S",
+    "price": "€169.99",
+    "url": "https://fr.pcpartpicker.com/product/cvPfrH/intel-cpu-bx80646i74770s",
+    "raw_text": "Intel Core i7-4770S\n4 3.1 GHz Haswell 65 W Intel HD Graphics 4600 (5) €169.99Add",
+    "scraped_at": "2025-09-21T05:25:50.163246",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Celeron G5920 2 3",
+    "price": "€170.00",
+    "url": "https://fr.pcpartpicker.com/product/R7gQzy/intel-celeron-g5920-35-ghz-dual-core-processor-bx80701g5920",
+    "raw_text": "Intel Celeron G5920\n2 3.5 GHz Comet Lake 58 W Intel UHD Graphics 610 (0) €170.00Add",
+    "scraped_at": "2025-09-21T05:25:50.168614",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E3-1225 V3 4 3",
+    "price": "€170.75",
+    "url": "https://fr.pcpartpicker.com/product/PHXfrH/intel-cpu-bx80646e31225v3",
+    "raw_text": "Intel Xeon E3-1225 V3\n4 3.2 GHz 3.6 GHz Haswell 84 W Intel HD Graphics P4600 (0) €170.75Add",
+    "scraped_at": "2025-09-21T05:25:50.178588",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-13400",
+    "price": "€172.19",
+    "url": "https://fr.pcpartpicker.com/product/7xLFf7/intel-core-i5-13400-25-ghz-10-core-processor-bx8071513400",
+    "raw_text": "Intel Core i5-13400\n10 2.5 GHz 4.6 GHz Raptor Lake 65 W Intel UHD Graphics 730 (5) €172.19Add",
+    "scraped_at": "2025-09-21T05:25:50.183779",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-12600K",
+    "price": "€173.00",
+    "url": "https://fr.pcpartpicker.com/product/BB4Ycf/intel-core-i5-12600k-37-ghz-6-core-processor-bx8071512600k",
+    "raw_text": "Intel Core i5-12600K\n10 3.7 GHz 4.9 GHz Alder Lake 125 W Intel UHD Graphics 770 (160) €173.00Add",
+    "scraped_at": "2025-09-21T05:25:50.188679",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-14600K",
+    "price": "€173.90",
+    "url": "https://fr.pcpartpicker.com/product/jXFmP6/intel-core-i5-14600k-35-ghz-14-core-processor-bx8071514600k",
+    "raw_text": "Intel Core i5-14600K\n14 3.5 GHz 5.3 GHz Raptor Lake Refresh 125 W Intel UHD Graphics 770 (17) €173.90Add",
+    "scraped_at": "2025-09-21T05:25:50.193644",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 7600X",
+    "price": "€177.00",
+    "url": "https://fr.pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof",
+    "raw_text": "AMD Ryzen 5 7600X\n6 4.7 GHz 5.3 GHz Zen 4 105 W Radeon (295) €177.00Add",
+    "scraped_at": "2025-09-21T05:25:50.198945",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core Ultra 5 225F 10 3",
+    "price": "€177.89",
+    "url": "https://fr.pcpartpicker.com/product/pkdMnQ/intel-core-ultra-5-225f-33-ghz-10-core-processor-bx80768225f",
+    "raw_text": "Intel Core Ultra 5 225F\n10 3.3 GHz 4.9 GHz Arrow Lake 65 W None (1) €177.89Add",
+    "scraped_at": "2025-09-21T05:25:50.204191",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-7700",
+    "price": "€178.88",
+    "url": "https://fr.pcpartpicker.com/product/9mRFf7/intel-core-i7-7700-36ghz-quad-core-processor-bx80677i77700",
+    "raw_text": "Intel Core i7-7700\n4 3.6 GHz 4.2 GHz Kaby Lake 65 W Intel HD Graphics 630 (35) €178.88Add",
+    "scraped_at": "2025-09-21T05:25:50.209417",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-3220",
+    "price": "€180.61",
+    "url": "https://fr.pcpartpicker.com/product/dZphP6/intel-cpu-bx80637i33220",
+    "raw_text": "Intel Core i3-3220\n2 3.3 GHz Ivy Bridge 55 W Intel HD Graphics 2500 (33) €180.61Add",
+    "scraped_at": "2025-09-21T05:25:50.214646",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-12100T",
+    "price": "€181.26",
+    "url": "https://fr.pcpartpicker.com/product/9vDQzy/intel-core-i3-12100t-22-ghz-quad-core-oemtray-processor-cm8071504651106",
+    "raw_text": "Intel Core i3-12100T\n4 2.2 GHz 4.1 GHz Alder Lake 35 W Intel UHD Graphics 730 (0) €181.26Add",
+    "scraped_at": "2025-09-21T05:25:50.219766",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Celeron 420 1 1",
+    "price": "€181.99",
+    "url": "https://fr.pcpartpicker.com/product/hzrG3C/intel-cpu-hh80557rg025512",
+    "raw_text": "Intel Celeron 420\n1 1.6 GHz Core 35 W None (0) €181.99Add",
+    "scraped_at": "2025-09-21T05:25:50.224708",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 3 3100",
+    "price": "€183.01",
+    "url": "https://fr.pcpartpicker.com/product/ndwkcf/amd-ryzen-3-3100-36-ghz-quad-core-processor-100-100000284box",
+    "raw_text": "AMD Ryzen 3 3100\n4 3.6 GHz 3.9 GHz Zen 2 65 W None (62) €183.01Add",
+    "scraped_at": "2025-09-21T05:25:50.229864",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 1600",
+    "price": "€183.01",
+    "url": "https://fr.pcpartpicker.com/product/8HqBD3/amd-ryzen-5-1600-12nm-32-ghz-6-core-processor-yd1600bbafbox",
+    "raw_text": "AMD Ryzen 5 1600 (12nm)\n6 3.2 GHz 3.6 GHz Zen+ 65 W None (55) €183.01Add",
+    "scraped_at": "2025-09-21T05:25:50.234997",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Pentium E6600 2 3",
+    "price": "€183.03",
+    "url": "https://fr.pcpartpicker.com/product/z4TmP6/intel-cpu-bx80571e6600",
+    "raw_text": "Intel Pentium E6600\n2 3.06 GHz Wolfdale 65 W None (0) €183.03Add",
+    "scraped_at": "2025-09-21T05:25:50.245103",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Celeron G3930T 2 2",
+    "price": "€183.03",
+    "url": "https://fr.pcpartpicker.com/product/J2fmP6/intel-celeron-g3930t-27ghz-dual-core-oemtray-processor-cm8067703016211",
+    "raw_text": "Intel Celeron G3930T\n2 2.7 GHz Kaby Lake 35 W Intel HD Graphics 610 (0) €183.03Add",
+    "scraped_at": "2025-09-21T05:25:50.250482",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Phenom II X4 955 4 3",
+    "price": "€183.59",
+    "url": "https://fr.pcpartpicker.com/product/RNh9TW/amd-cpu-hdx955wfk4dgm",
+    "raw_text": "AMD Phenom II X4 955\n4 3.2 GHz K10 125 W None (2) €183.59Add",
+    "scraped_at": "2025-09-21T05:25:50.255525",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Pentium G4400T 2 2",
+    "price": "€185.31",
+    "url": "https://fr.pcpartpicker.com/product/fJbkcf/intel-cpu-cm8066201927506",
+    "raw_text": "Intel Pentium G4400T\n2 2.9 GHz Skylake 35 W Intel HD Graphics 510 (0) €185.31Add",
+    "scraped_at": "2025-09-21T05:25:50.260950",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Phenom II X4 840 4 3",
+    "price": "€186.12",
+    "url": "https://fr.pcpartpicker.com/product/KPBv6h/amd-cpu-hdx840wfk42gm",
+    "raw_text": "AMD Phenom II X4 840\n4 3.2 GHz K10 95 W None (0) €186.12Add",
+    "scraped_at": "2025-09-21T05:25:50.271196",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 8600G",
+    "price": "€186.19",
+    "url": "https://fr.pcpartpicker.com/product/QqyH99/amd-ryzen-5-8600g-43-ghz-6-core-processor-100-100001237box",
+    "raw_text": "AMD Ryzen 5 8600G\n6 4.3 GHz 5 GHz Zen 4 65 W Radeon 760M (14) €186.19Add",
+    "scraped_at": "2025-09-21T05:25:50.276773",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core 2 Duo E6750 2 2",
+    "price": "€186.49",
+    "url": "https://fr.pcpartpicker.com/product/fwbp99/intel-cpu-hh80557pj0674mg",
+    "raw_text": "Intel Core 2 Duo E6750\n2 2.66 GHz Core 65 W None (0) €186.49Add",
+    "scraped_at": "2025-09-21T05:25:50.282172",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core 2 Duo E6420 2 2",
+    "price": "€187.24",
+    "url": "https://fr.pcpartpicker.com/product/xwbp99/intel-cpu-hh80557ph0464m",
+    "raw_text": "Intel Core 2 Duo E6420\n2 2.13 GHz Core 65 W None (0) €187.24Add",
+    "scraped_at": "2025-09-21T05:25:50.287532",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-14600KF",
+    "price": "€187.50",
+    "url": "https://fr.pcpartpicker.com/product/zyyH99/intel-core-i5-14600kf-35-ghz-14-core-processor-bx8071514600kf",
+    "raw_text": "Intel Core i5-14600KF\n14 3.5 GHz 5.3 GHz Raptor Lake Refresh 125 W None (11) €187.50Add",
+    "scraped_at": "2025-09-21T05:25:50.292926",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-9400F",
+    "price": "€187.95",
+    "url": "https://fr.pcpartpicker.com/product/T47v6h/intel-core-i5-9400f-29-ghz-6-core-processor-bx80684i59400f",
+    "raw_text": "Intel Core i5-9400F\n6 2.9 GHz 4.1 GHz Coffee Lake Refresh 65 W None (48) €187.95Add",
+    "scraped_at": "2025-09-21T05:25:50.297913",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 7600",
+    "price": "€188.00",
+    "url": "https://fr.pcpartpicker.com/product/yXmmP6/amd-ryzen-5-7600-38-ghz-6-core-processor-100-100001015box",
+    "raw_text": "AMD Ryzen 5 7600\n6 3.8 GHz 5.1 GHz Zen 4 65 W Radeon (192) €188.00Add",
+    "scraped_at": "2025-09-21T05:25:50.302904",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-4770K",
+    "price": "€188.38",
+    "url": "https://fr.pcpartpicker.com/product/yT2kcf/intel-cpu-bx80646i74770k",
+    "raw_text": "Intel Core i7-4770K\n4 3.5 GHz 3.9 GHz Haswell 84 W Intel HD Graphics 4600 (465) €188.38Add",
+    "scraped_at": "2025-09-21T05:25:50.308102",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-8400",
+    "price": "€188.88",
+    "url": "https://fr.pcpartpicker.com/product/LHYWGX/intel-core-i5-8400-28ghz-6-core-processor-bx80684i58400",
+    "raw_text": "Intel Core i5-8400\n6 2.8 GHz 4 GHz Coffee Lake 65 W Intel UHD Graphics 630 (86) €188.88Add",
+    "scraped_at": "2025-09-21T05:25:50.318224",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-6600K",
+    "price": "€188.88",
+    "url": "https://fr.pcpartpicker.com/product/gx648d/intel-cpu-bx80662i56600k",
+    "raw_text": "Intel Core i5-6600K\n4 3.5 GHz 3.9 GHz Skylake 91 W Intel HD Graphics 530 (427) €188.88Add",
+    "scraped_at": "2025-09-21T05:25:50.323548",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-5820K",
+    "price": "€188.88",
+    "url": "https://fr.pcpartpicker.com/product/6tXfrH/intel-cpu-bx80648i75820k",
+    "raw_text": "Intel Core i7-5820K\n6 3.3 GHz 3.6 GHz Haswell 140 W None (120) €188.88Add",
+    "scraped_at": "2025-09-21T05:25:50.328467",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-8350K",
+    "price": "€188.88",
+    "url": "https://fr.pcpartpicker.com/product/fCs8TW/intel-core-i3-8350k-40ghz-quad-core-processor-bx80684i38350k",
+    "raw_text": "Intel Core i3-8350K\n4 4 GHz Coffee Lake 91 W Intel UHD Graphics 630 (14) €188.88Add",
+    "scraped_at": "2025-09-21T05:25:50.333316",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-4670K",
+    "price": "€189.05",
+    "url": "https://fr.pcpartpicker.com/product/DNrG3C/intel-cpu-bx80646i54670k",
+    "raw_text": "Intel Core i5-4670K\n4 3.4 GHz Haswell 84 W Intel HD Graphics 4600 (522) €189.05Add",
+    "scraped_at": "2025-09-21T05:25:50.343361",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-2600K",
+    "price": "€189.80",
+    "url": "https://fr.pcpartpicker.com/product/LTckcf/intel-cpu-bx80623i72600k",
+    "raw_text": "Intel Core i7-2600K\n4 3.4 GHz Sandy Bridge 95 W Intel HD Graphics 3000 (43) €189.80Add",
+    "scraped_at": "2025-09-21T05:25:50.348473",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-4460",
+    "price": "€189.87",
+    "url": "https://fr.pcpartpicker.com/product/F63RsY/intel-cpu-bx80646i54460",
+    "raw_text": "Intel Core i5-4460\n4 3.2 GHz 3.4 GHz Haswell Refresh 84 W Intel HD Graphics 4600 (102) €189.87Add",
+    "scraped_at": "2025-09-21T05:25:50.353824",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-9100",
+    "price": "€190.00",
+    "url": "https://fr.pcpartpicker.com/product/NfKcCJ/intel-core-i3-9100-36-ghz-quad-core-processor-bx80684i39100",
+    "raw_text": "Intel Core i3-9100\n4 3.6 GHz 4.2 GHz Coffee Lake Refresh 65 W Intel UHD Graphics 630 (7) €190.00Add",
+    "scraped_at": "2025-09-21T05:25:50.358879",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-4570",
+    "price": "€191.63",
+    "url": "https://fr.pcpartpicker.com/product/wXK7YJ/intel-cpu-bx80646i54570",
+    "raw_text": "Intel Core i5-4570\n4 3.2 GHz Haswell 84 W Intel HD Graphics 4600 (84) €191.63Add",
+    "scraped_at": "2025-09-21T05:25:50.363922",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Celeron E1200 2 1",
+    "price": "€192.75",
+    "url": "https://fr.pcpartpicker.com/product/9MH323/intel-cpu-bx80557e1200",
+    "raw_text": "Intel Celeron E1200\n2 1.6 GHz Core 65 W None (0) €192.75Add",
+    "scraped_at": "2025-09-21T05:25:50.369205",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-11400",
+    "price": "€192.90",
+    "url": "https://fr.pcpartpicker.com/product/92VmP6/intel-core-i5-11400-26-ghz-6-core-processor-bx8070811400",
+    "raw_text": "Intel Core i5-11400\n6 2.6 GHz 4.4 GHz Rocket Lake 65 W Intel UHD Graphics 730 (35) €192.90Add",
+    "scraped_at": "2025-09-21T05:25:50.374313",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-2380P",
+    "price": "€194.02",
+    "url": "https://fr.pcpartpicker.com/product/sxzv6h/intel-cpu-bx80623i52380p",
+    "raw_text": "Intel Core i5-2380P\n4 3.1 GHz Sandy Bridge 95 W None (0) €194.02Add",
+    "scraped_at": "2025-09-21T05:25:50.379402",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 7 5800XT",
+    "price": "€194.59",
+    "url": "https://fr.pcpartpicker.com/product/fN88TW/amd-ryzen-7-5800xt-38-ghz-8-core-processor-100-100001582box",
+    "raw_text": "AMD Ryzen 7 5800XT\n8 3.8 GHz 4.8 GHz Zen 3 105 W None (3) €194.59Add",
+    "scraped_at": "2025-09-21T05:25:50.384889",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i3-540",
+    "price": "€195.34",
+    "url": "https://fr.pcpartpicker.com/product/WF6BD3/intel-cpu-bx80616i3540",
+    "raw_text": "Intel Core i3-540\n2 3.06 GHz Westmere 73 W Intel HD Graphics (2) €195.34Add",
+    "scraped_at": "2025-09-21T05:25:50.390352",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-6850K",
+    "price": "€197.23",
+    "url": "https://fr.pcpartpicker.com/product/YyKhP6/intel-cpu-cm8067102056100",
+    "raw_text": "Intel Core i7-6850K\n6 3.6 GHz 3.8 GHz Broadwell 140 W None (0) €197.23Add",
+    "scraped_at": "2025-09-21T05:25:50.395626",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-4790S",
+    "price": "€198.87",
+    "url": "https://fr.pcpartpicker.com/product/YZg323/intel-cpu-bx80646i74790s",
+    "raw_text": "Intel Core i7-4790S\n4 3.2 GHz 4 GHz Haswell Refresh 65 W Intel HD Graphics 4000 (2) €198.87Add",
+    "scraped_at": "2025-09-21T05:25:50.400875",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-7640X",
+    "price": "€198.88",
+    "url": "https://fr.pcpartpicker.com/product/7rkwrH/intel-core-i7-7740x-43ghz-quad-core-processor-bx80677i57640x",
+    "raw_text": "Intel Core i5-7640X\n4 4 GHz 4.2 GHz Kaby Lake 112 W None (0) €198.88Add",
+    "scraped_at": "2025-09-21T05:25:50.406163",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD 2650 2 1",
+    "price": "€199.00",
+    "url": "https://fr.pcpartpicker.com/product/tLvRsY/amd-cpu-sd2650jahmbox",
+    "raw_text": "AMD 2650\n2 1.45 GHz Jaguar 25 W Radeon HD 8240 (2) €199.00Add",
+    "scraped_at": "2025-09-21T05:25:50.411425",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E-2124 4 3",
+    "price": "€199.84",
+    "url": "https://fr.pcpartpicker.com/product/XY448d/intel-xeon-e-2124-33-thz-quad-core-processor-bx80684e2124",
+    "raw_text": "Intel Xeon E-2124\n4 3.3 GHz 4.3 GHz Coffee Lake 71 W None (0) €199.84Add",
+    "scraped_at": "2025-09-21T05:25:50.417286",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-6700T",
+    "price": "€200.00",
+    "url": "https://fr.pcpartpicker.com/product/WV7CmG/intel-cpu-cm8066201920202",
+    "raw_text": "Intel Core i7-6700T\n4 2.8 GHz 3.6 GHz Skylake 35 W Intel HD Graphics 530 (0) €200.00Add",
+    "scraped_at": "2025-09-21T05:25:50.422670",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core 2 Duo E7500 2 2",
+    "price": "€200.65",
+    "url": "https://fr.pcpartpicker.com/product/dLNp99/intel-cpu-bx80571e7500",
+    "raw_text": "Intel Core 2 Duo E7500\n2 2.93 GHz Wolfdale 65 W None (3) €200.65Add",
+    "scraped_at": "2025-09-21T05:25:50.428259",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i7-4790K",
+    "price": "€201.16",
+    "url": "https://fr.pcpartpicker.com/product/6vzv6h/intel-cpu-bx80646i74790k",
+    "raw_text": "Intel Core i7-4790K\n4 4 GHz 4.4 GHz Haswell Refresh 88 W Intel HD Graphics 4600 (564) €201.16Add",
+    "scraped_at": "2025-09-21T05:25:50.433586",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-4430",
+    "price": "€201.69",
+    "url": "https://fr.pcpartpicker.com/product/MdBv6h/intel-cpu-bx80646i54430",
+    "raw_text": "Intel Core i5-4430\n4 3 GHz Haswell 84 W Intel HD Graphics 4600 (29) €201.69Add",
+    "scraped_at": "2025-09-21T05:25:50.439004",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "AMD Ryzen 5 1600X",
+    "price": "€202.31",
+    "url": "https://fr.pcpartpicker.com/product/8hwqqs/amd-ryzen-5-1600x-36ghz-6-core-processor-yd160xbcaewof",
+    "raw_text": "AMD Ryzen 5 1600X\n6 3.6 GHz 4 GHz Zen 95 W None (74) €202.31Add",
+    "scraped_at": "2025-09-21T05:25:50.444618",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core 2 Duo E6700 2 2",
+    "price": "€202.52",
+    "url": "https://fr.pcpartpicker.com/product/Ys7wrH/intel-cpu-hh80557ph0674m",
+    "raw_text": "Intel Core 2 Duo E6700\n2 2.66 GHz Core 65 W None (0) €202.52Add",
+    "scraped_at": "2025-09-21T05:25:50.450128",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Pentium E2160 2 1",
+    "price": "€202.54",
+    "url": "https://fr.pcpartpicker.com/product/6wbp99/intel-cpu-bx80557e2160",
+    "raw_text": "Intel Pentium E2160\n2 1.8 GHz Core 65 W None (0) €202.54Add",
+    "scraped_at": "2025-09-21T05:25:50.455603",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-14400",
+    "price": "€202.90",
+    "url": "https://fr.pcpartpicker.com/product/37qrxr/intel-core-i5-14400-25-ghz-10-core-processor-bx8071514400",
+    "raw_text": "Intel Core i5-14400\n10 2.5 GHz 4.7 GHz Raptor Lake Refresh 65 W Intel UHD Graphics 730 (2) €202.90Add",
+    "scraped_at": "2025-09-21T05:25:50.461058",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Xeon E5-2665 8 2",
+    "price": "€203.84",
+    "url": "https://fr.pcpartpicker.com/product/QvXfrH/intel-cpu-bx80621e52665",
+    "raw_text": "Intel Xeon E5-2665\n8 2.4 GHz 3.1 GHz Sandy Bridge 115 W None (0) €203.84Add",
+    "scraped_at": "2025-09-21T05:25:50.466344",
+    "source": "fr.pcpartpicker.com",
+    "page": 2
+  },
+  {
+    "name": "Intel Core i5-2500",
+    "price": "€204.15",
+    "url": "https://fr.pcpartpicker.com/product/ZyPfrH/intel-cpu-bx80623i52500",
+    "raw_text": "Intel Core i5-2500\n4 3.3 GHz Sandy Bridge 95 W Intel HD Graphics 2000 (8) €204.15Add",
+    "scraped_at": "2025-09-21T05:25:59.835743",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core 2 Duo E8300 2 2",
+    "price": "€204.37",
+    "url": "https://fr.pcpartpicker.com/product/p6fp99/intel-cpu-eu80570pj0736m",
+    "raw_text": "Intel Core 2 Duo E8300\n2 2.83 GHz Wolfdale 65 W None (0) €204.37Add",
+    "scraped_at": "2025-09-21T05:25:59.841029",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-5675C",
+    "price": "€204.38",
+    "url": "https://fr.pcpartpicker.com/product/ZDx9TW/intel-cpu-bx80658i55675c",
+    "raw_text": "Intel Core i5-5675C\n4 3.1 GHz 3.6 GHz Broadwell 65 W Iris Pro Graphics 6200 (1) €204.38Add",
+    "scraped_at": "2025-09-21T05:25:59.846100",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-660",
+    "price": "€204.45",
+    "url": "https://fr.pcpartpicker.com/product/4csKHx/intel-cpu-bx80616i5660",
+    "raw_text": "Intel Core i5-660\n2 3.33 GHz Westmere 73 W Intel HD Graphics (0) €204.45Add",
+    "scraped_at": "2025-09-21T05:25:59.851322",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-3820",
+    "price": "€204.52",
+    "url": "https://fr.pcpartpicker.com/product/6xzv6h/intel-cpu-bx80619i73820",
+    "raw_text": "Intel Core i7-3820\n4 3.6 GHz Sandy Bridge 130 W None (24) €204.52Add",
+    "scraped_at": "2025-09-21T05:25:59.856696",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-12500",
+    "price": "€204.63",
+    "url": "https://fr.pcpartpicker.com/product/hvC48d/intel-core-i5-12500-3-ghz-6-core-processor-bx8071512500",
+    "raw_text": "Intel Core i5-12500\n6 3 GHz 4.6 GHz Alder Lake 65 W Intel UHD Graphics 770 (5) €204.63Add",
+    "scraped_at": "2025-09-21T05:25:59.861756",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": "€206.00",
+    "url": "https://fr.pcpartpicker.com/product/YDM48d/intel-core-i7-12700kf-36-ghz-8-core-processor-bx8071512700kf",
+    "raw_text": "Intel Core i7-12700KF\n12 3.6 GHz 5 GHz Alder Lake 125 W None (63) €206.00Add",
+    "scraped_at": "2025-09-21T05:25:59.867927",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 5 9600X",
+    "price": "€206.90",
+    "url": "https://fr.pcpartpicker.com/product/4r4Zxr/amd-ryzen-5-9600x-39-ghz-6-core-processor-100-100001405wof",
+    "raw_text": "AMD Ryzen 5 9600X\n6 3.9 GHz 5.4 GHz Zen 5 65 W Radeon (61) €206.90Add",
+    "scraped_at": "2025-09-21T05:25:59.873342",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-4670",
+    "price": "€207.20",
+    "url": "https://fr.pcpartpicker.com/product/CVjG3C/intel-cpu-bx80646i54670",
+    "raw_text": "Intel Core i5-4670\n4 3.4 GHz Haswell 84 W Intel HD Graphics 4600 (42) €207.20Add",
+    "scraped_at": "2025-09-21T05:25:59.878842",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core Ultra 5 225 10 3",
+    "price": "€207.88",
+    "url": "https://fr.pcpartpicker.com/product/tFtkcf/intel-core-ultra-5-225-33-ghz-10-core-processor-bx80768225",
+    "raw_text": "Intel Core Ultra 5 225\n10 3.3 GHz 4.9 GHz Arrow Lake 65 W Intel Xe (0) €207.88Add",
+    "scraped_at": "2025-09-21T05:25:59.884188",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-4690K",
+    "price": "€208.49",
+    "url": "https://fr.pcpartpicker.com/product/Tvzv6h/intel-cpu-bx80646i54690k",
+    "raw_text": "Intel Core i5-4690K\n4 3.5 GHz 3.9 GHz Haswell Refresh 88 W Intel HD Graphics 4600 (555) €208.49Add",
+    "scraped_at": "2025-09-21T05:25:59.889319",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-760",
+    "price": "€208.50",
+    "url": "https://fr.pcpartpicker.com/product/R6zv6h/intel-cpu-bx80605i5760",
+    "raw_text": "Intel Core i5-760\n4 2.8 GHz Nehalem 95 W None (2) €208.50Add",
+    "scraped_at": "2025-09-21T05:25:59.894402",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-3570K",
+    "price": "€208.59",
+    "url": "https://fr.pcpartpicker.com/product/3LZQzy/intel-cpu-bx80637i53570k",
+    "raw_text": "Intel Core i5-3570K\n4 3.4 GHz Ivy Bridge 77 W Intel HD Graphics 4000 (457) €208.59Add",
+    "scraped_at": "2025-09-21T05:25:59.899388",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-7600",
+    "price": "€208.88",
+    "url": "https://fr.pcpartpicker.com/product/3pWrxr/intel-core-i5-7600-35ghz-quad-core-processor-bx80677i57600",
+    "raw_text": "Intel Core i5-7600\n4 3.5 GHz 4.1 GHz Kaby Lake 65 W Intel HD Graphics 630 (22) €208.88Add",
+    "scraped_at": "2025-09-21T05:25:59.904428",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-8500",
+    "price": "€208.88",
+    "url": "https://fr.pcpartpicker.com/product/kFKcCJ/intel-core-i5-8500-3ghz-6-core-processor-bx80684i58500",
+    "raw_text": "Intel Core i5-8500\n6 3 GHz 4.1 GHz Coffee Lake 65 W Intel UHD Graphics 630 (9) €208.88Add",
+    "scraped_at": "2025-09-21T05:25:59.909589",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-9500",
+    "price": "€208.99",
+    "url": "https://fr.pcpartpicker.com/product/dD4BD3/intel-core-i5-9500-3-ghz-6-core-oemtray-processor-cm8068403362610",
+    "raw_text": "Intel Core i5-9500\n6 3 GHz 4.4 GHz Coffee Lake Refresh 65 W Intel UHD Graphics 630 (0) €208.99Add",
+    "scraped_at": "2025-09-21T05:25:59.919654",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core 2 Quad Q6600 4 2",
+    "price": "€209.04",
+    "url": "https://fr.pcpartpicker.com/product/2vGkcf/intel-cpu-hh80562ph0568m",
+    "raw_text": "Intel Core 2 Quad Q6600\n4 2.4 GHz Core 100 W None (4) €209.04Add",
+    "scraped_at": "2025-09-21T05:25:59.924670",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-4790",
+    "price": "€210.97",
+    "url": "https://fr.pcpartpicker.com/product/94MTwP/intel-core-i7-4790-36-ghz-quad-core-oemtray-processor-cm8064601560113",
+    "raw_text": "Intel Core i7-4790\n4 3.6 GHz 4 GHz Haswell Refresh 84 W Intel HD Graphics 4600 (2) €210.97Add",
+    "scraped_at": "2025-09-21T05:25:59.929678",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-650",
+    "price": "€211.21",
+    "url": "https://fr.pcpartpicker.com/product/BkZQzy/intel-cpu-bx80616i5650",
+    "raw_text": "Intel Core i5-650\n2 3.2 GHz Westmere 73 W Intel HD Graphics (1) €211.21Add",
+    "scraped_at": "2025-09-21T05:25:59.934832",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Phenom II X2 555 Black 2 3",
+    "price": "€212.27",
+    "url": "https://fr.pcpartpicker.com/product/x3JwrH/amd-cpu-hdz555wfgmbox",
+    "raw_text": "AMD Phenom II X2 555 Black\n2 3.2 GHz K10 80 W None (1) €212.27Add",
+    "scraped_at": "2025-09-21T05:25:59.945189",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-4590S",
+    "price": "€213.32",
+    "url": "https://fr.pcpartpicker.com/product/xvzv6h/intel-cpu-bx80646i54590s",
+    "raw_text": "Intel Core i5-4590S\n4 3 GHz 3.7 GHz Haswell Refresh 65 W Intel HD Graphics 4000 (8) €213.32Add",
+    "scraped_at": "2025-09-21T05:25:59.950218",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD A8-6600K 4 3",
+    "price": "€214.26",
+    "url": "https://fr.pcpartpicker.com/product/fb7wrH/amd-cpu-ad660kwohlbox",
+    "raw_text": "AMD A8-6600K\n4 3.9 GHz Piledriver 100 W Radeon HD 8570D (21) €214.26Add",
+    "scraped_at": "2025-09-21T05:25:59.955458",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Xeon E3-1245 V6 4 3",
+    "price": "€214.43",
+    "url": "https://fr.pcpartpicker.com/product/tds8TW/intel-xeon-e3-1245-v6-37ghz-quad-core-processor-bx80677e31245v6",
+    "raw_text": "Intel Xeon E3-1245 V6\n4 3.7 GHz 4.1 GHz Kaby Lake 73 W Intel HD Graphics P630 (1) €214.43Add",
+    "scraped_at": "2025-09-21T05:25:59.960605",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-13600KF",
+    "price": "€215.00",
+    "url": "https://fr.pcpartpicker.com/product/GVM48d/intel-core-i5-13600kf-35-ghz-14-core-processor-bx8071513600kf",
+    "raw_text": "Intel Core i5-13600KF\n14 3.5 GHz 5.1 GHz Raptor Lake 125 W None (67) €215.00Add",
+    "scraped_at": "2025-09-21T05:25:59.965863",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-7700T",
+    "price": "€216.01",
+    "url": "https://fr.pcpartpicker.com/product/wZPzK8/intel-core-i7-7700t-29ghz-quad-core-oemtray-processor-cm8067702868416",
+    "raw_text": "Intel Core i7-7700T\n4 2.9 GHz 3.8 GHz Kaby Lake 35 W Intel HD Graphics 630 (1) €216.01Add",
+    "scraped_at": "2025-09-21T05:25:59.971514",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 7 3700X",
+    "price": "€221.09",
+    "url": "https://fr.pcpartpicker.com/product/QKJtt6/amd-ryzen-7-3700x-36-ghz-8-core-processor-100-100000071box",
+    "raw_text": "AMD Ryzen 7 3700X\n8 3.6 GHz 4.4 GHz Zen 2 65 W None (636) €221.09Add",
+    "scraped_at": "2025-09-21T05:25:59.981823",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-9400",
+    "price": "€222.59",
+    "url": "https://fr.pcpartpicker.com/product/9rxbt6/intel-core-i5-9400-29-ghz-6-core-oemtray-processor-cm8068403358816",
+    "raw_text": "Intel Core i5-9400\n6 2.9 GHz 4.1 GHz Coffee Lake Refresh 65 W Intel UHD Graphics 630 (0) €222.59Add",
+    "scraped_at": "2025-09-21T05:25:59.986901",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-10600",
+    "price": "€222.88",
+    "url": "https://fr.pcpartpicker.com/product/hftKHx/intel-core-i5-10600-33-ghz-6-core-processor-bx8070110600",
+    "raw_text": "Intel Core i5-10600\n6 3.3 GHz 4.8 GHz Comet Lake 65 W Intel UHD Graphics 630 (3) €222.88Add",
+    "scraped_at": "2025-09-21T05:25:59.992017",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-2500K",
+    "price": "€224.19",
+    "url": "https://fr.pcpartpicker.com/product/4WqdnQ/intel-cpu-bx80623i52500k",
+    "raw_text": "Intel Core i5-2500K\n4 3.3 GHz Sandy Bridge 95 W Intel HD Graphics 3000 (98) €224.19Add",
+    "scraped_at": "2025-09-21T05:26:00.002611",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-960",
+    "price": "€224.20",
+    "url": "https://fr.pcpartpicker.com/product/94TmP6/intel-cpu-bx80601960",
+    "raw_text": "Intel Core i7-960\n4 3.2 GHz Nehalem 130 W None (2) €224.20Add",
+    "scraped_at": "2025-09-21T05:26:00.007618",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 5 9600",
+    "price": "€227.88",
+    "url": "https://fr.pcpartpicker.com/product/QmqNnQ/amd-ryzen-5-9600-38-ghz-6-core-processor-100-100000718box",
+    "raw_text": "AMD Ryzen 5 9600\n6 3.8 GHz 5.2 GHz Zen 5 65 W Radeon (0) €227.88Add",
+    "scraped_at": "2025-09-21T05:26:00.018612",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-9500F",
+    "price": "€228.88",
+    "url": "https://fr.pcpartpicker.com/product/vfrYcf/intel-core-i5-9500f-3-ghz-6-core-processor-bx80684i59500f",
+    "raw_text": "Intel Core i5-9500F\n6 3 GHz 4.4 GHz Coffee Lake Refresh 65 W None (0) €228.88Add",
+    "scraped_at": "2025-09-21T05:26:00.024919",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i3-9320",
+    "price": "€229.45",
+    "url": "https://fr.pcpartpicker.com/product/qp9tt6/intel-core-i3-9320-37-ghz-quad-core-processor-bx80684i39320",
+    "raw_text": "Intel Core i3-9320\n4 3.7 GHz 4.4 GHz Coffee Lake Refresh 62 W None (0) €229.45Add",
+    "scraped_at": "2025-09-21T05:26:00.030468",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD A10-6700 4 3",
+    "price": "€231.00",
+    "url": "https://fr.pcpartpicker.com/product/4b7wrH/amd-cpu-ad6700okhlbox",
+    "raw_text": "AMD A10-6700\n4 3.7 GHz Piledriver 65 W Radeon HD 8670D (3) €231.00Add",
+    "scraped_at": "2025-09-21T05:26:00.036048",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-4690",
+    "price": "€231.62",
+    "url": "https://fr.pcpartpicker.com/product/r8W9TW/intel-cpu-bx80646i54690",
+    "raw_text": "Intel Core i5-4690\n4 3.5 GHz 3.9 GHz Haswell Refresh 84 W Intel HD Graphics 4600 (42) €231.62Add",
+    "scraped_at": "2025-09-21T05:26:00.041593",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-940",
+    "price": "€232.40",
+    "url": "https://fr.pcpartpicker.com/product/Qr8Zxr/intel-cpu-bx80601940",
+    "raw_text": "Intel Core i7-940\n4 2.93 GHz Nehalem 130 W None (1) €232.40Add",
+    "scraped_at": "2025-09-21T05:26:00.047268",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-4790T",
+    "price": "€232.52",
+    "url": "https://fr.pcpartpicker.com/product/JGcMnQ/intel-cpu-cm8064601561513",
+    "raw_text": "Intel Core i7-4790T\n4 2.7 GHz 3.9 GHz Haswell Refresh 45 W None (0) €232.52Add",
+    "scraped_at": "2025-09-21T05:26:00.052797",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i3-4360",
+    "price": "€232.52",
+    "url": "https://fr.pcpartpicker.com/product/tFFPxr/intel-cpu-bx80646i34360",
+    "raw_text": "Intel Core i3-4360\n2 3.7 GHz Haswell Refresh 54 W Intel HD Graphics 4600 (6) €232.52Add",
+    "scraped_at": "2025-09-21T05:26:00.058181",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Pentium G4620 2 3",
+    "price": "€232.67",
+    "url": "https://fr.pcpartpicker.com/product/2cVBD3/intel-pentium-g4620-37ghz-dual-core-processor-bx80677g4620",
+    "raw_text": "Intel Pentium G4620\n2 3.7 GHz Kaby Lake 51 W Intel HD Graphics 630 (6) €232.67Add",
+    "scraped_at": "2025-09-21T05:26:00.064039",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-3770S",
+    "price": "€234.84",
+    "url": "https://fr.pcpartpicker.com/product/mbJwrH/intel-cpu-bx80637i73770s",
+    "raw_text": "Intel Core i7-3770S\n4 3.1 GHz Ivy Bridge 65 W Intel HD Graphics 4000 (4) €234.84Add",
+    "scraped_at": "2025-09-21T05:26:00.069516",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 7 8700F",
+    "price": "€234.98",
+    "url": "https://fr.pcpartpicker.com/product/CsGhP6/amd-ryzen-7-8700f-41-ghz-8-core-processor-100-100001590box",
+    "raw_text": "AMD Ryzen 7 8700F\n8 4.1 GHz 5 GHz Zen 4 65 W None (3) €234.98Add",
+    "scraped_at": "2025-09-21T05:26:00.075049",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-13600K",
+    "price": "€235.00",
+    "url": "https://fr.pcpartpicker.com/product/LfNxFT/intel-core-i5-13600k-35-ghz-14-core-processor-bx8071513600k",
+    "raw_text": "Intel Core i5-13600K\n14 3.5 GHz 5.1 GHz Raptor Lake 125 W Intel UHD Graphics 770 (110) €235.00Add",
+    "scraped_at": "2025-09-21T05:26:00.080573",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i3-3210",
+    "price": "€236.97",
+    "url": "https://fr.pcpartpicker.com/product/dR7wrH/intel-cpu-bx80637i33210",
+    "raw_text": "Intel Core i3-3210\n2 3.2 GHz Ivy Bridge 55 W Intel HD Graphics 2500 (0) €236.97Add",
+    "scraped_at": "2025-09-21T05:26:00.085942",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-8700K",
+    "price": "€238.88",
+    "url": "https://fr.pcpartpicker.com/product/sxDzK8/intel-core-i7-8700k-37ghz-6-core-processor-bx80684i78700k",
+    "raw_text": "Intel Core i7-8700K\n6 3.7 GHz 4.7 GHz Coffee Lake 95 W Intel UHD Graphics 630 (306) €238.88Add",
+    "scraped_at": "2025-09-21T05:26:00.091349",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-7700K",
+    "price": "€238.88",
+    "url": "https://fr.pcpartpicker.com/product/VKx9TW/intel-core-i7-7700k-42ghz-quad-core-processor-bx80677i77700k",
+    "raw_text": "Intel Core i7-7700K\n4 4.2 GHz 4.5 GHz Kaby Lake 91 W Intel HD Graphics 630 (304) €238.88Add",
+    "scraped_at": "2025-09-21T05:26:00.096820",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-10600K",
+    "price": "€238.88",
+    "url": "https://fr.pcpartpicker.com/product/HcPgXL/intel-core-i5-10600k-41-ghz-6-core-processor-bx8070110600k",
+    "raw_text": "Intel Core i5-10600K\n6 4.1 GHz 4.8 GHz Comet Lake 125 W Intel UHD Graphics 630 (73) €238.88Add",
+    "scraped_at": "2025-09-21T05:26:00.102177",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-8600K",
+    "price": "€238.88",
+    "url": "https://fr.pcpartpicker.com/product/Mr2rxr/intel-core-i5-8600k-36ghz-6-core-processor-bx80684i58600k",
+    "raw_text": "Intel Core i5-8600K\n6 3.6 GHz 4.3 GHz Coffee Lake 95 W Intel UHD Graphics 630 (145) €238.88Add",
+    "scraped_at": "2025-09-21T05:26:00.107597",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-12700K",
+    "price": "€239.00",
+    "url": "https://fr.pcpartpicker.com/product/ZbddnQ/intel-core-i7-12700k-36-ghz-8-core-processor-bx8071512700k",
+    "raw_text": "Intel Core i7-12700K\n12 3.6 GHz 5 GHz Alder Lake 125 W Intel UHD Graphics 770 (150) €239.00Add",
+    "scraped_at": "2025-09-21T05:26:00.112849",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-870",
+    "price": "€242.71",
+    "url": "https://fr.pcpartpicker.com/product/XDvRsY/intel-cpu-bx80605i7870",
+    "raw_text": "Intel Core i7-870\n4 2.93 GHz Nehalem 95 W None (3) €242.71Add",
+    "scraped_at": "2025-09-21T05:26:00.118027",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-12600",
+    "price": "€244.99",
+    "url": "https://fr.pcpartpicker.com/product/HqXJ7P/intel-core-i5-12600-33-ghz-6-core-processor-bx8071512600",
+    "raw_text": "Intel Core i5-12600\n6 3.3 GHz 4.8 GHz Alder Lake 65 W Intel UHD Graphics 770 (4) €244.99Add",
+    "scraped_at": "2025-09-21T05:26:00.129868",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core 2 Quad Q9550 4 2",
+    "price": "€246.21",
+    "url": "https://fr.pcpartpicker.com/product/X4TmP6/intel-cpu-bx80569q9550",
+    "raw_text": "Intel Core 2 Quad Q9550\n4 2.83 GHz Yorkfield 95 W None (4) €246.21Add",
+    "scraped_at": "2025-09-21T05:26:00.135627",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 9 5950X",
+    "price": "€247.50",
+    "url": "https://fr.pcpartpicker.com/product/Qk2bt6/amd-ryzen-9-5950x-34-ghz-16-core-processor-100-100000059wof",
+    "raw_text": "AMD Ryzen 9 5950X\n16 3.4 GHz 4.9 GHz Zen 3 105 W None (112) €247.50Add",
+    "scraped_at": "2025-09-21T05:26:00.141392",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-13500",
+    "price": "€248.51",
+    "url": "https://fr.pcpartpicker.com/product/mtmmP6/intel-core-i5-13500-25-ghz-14-core-processor-bx8071513500",
+    "raw_text": "Intel Core i5-13500\n14 2.5 GHz 4.8 GHz Raptor Lake 65 W Intel UHD Graphics 770 (16) €248.51Add",
+    "scraped_at": "2025-09-21T05:26:00.146737",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-6700K",
+    "price": "€248.88",
+    "url": "https://fr.pcpartpicker.com/product/tdmxFT/intel-cpu-bx80662i76700k",
+    "raw_text": "Intel Core i7-6700K\n4 4 GHz 4.2 GHz Skylake 91 W Intel HD Graphics 530 (508) €248.88Add",
+    "scraped_at": "2025-09-21T05:26:00.152370",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-8600",
+    "price": "€248.88",
+    "url": "https://fr.pcpartpicker.com/product/XMTPxr/intel-core-i5-8600-31ghz-6-core-processor-bx80684i58600",
+    "raw_text": "Intel Core i5-8600\n6 3.1 GHz 4.3 GHz Coffee Lake 65 W Intel UHD Graphics 630 (4) €248.88Add",
+    "scraped_at": "2025-09-21T05:26:00.157782",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-12700F",
+    "price": "€249.49",
+    "url": "https://fr.pcpartpicker.com/product/LT3gXL/intel-core-i7-12700f-21-ghz-12-core-processor-bx8071512700f",
+    "raw_text": "Intel Core i7-12700F\n12 2.1 GHz 4.9 GHz Alder Lake 65 W None (10) €249.49Add",
+    "scraped_at": "2025-09-21T05:26:00.163057",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core Ultra 5 245KF 14 4",
+    "price": "€250.12",
+    "url": "https://fr.pcpartpicker.com/product/k7cgXL/intel-core-ultra-5-245kf-42-ghz-14-core-processor-bx80768245kf",
+    "raw_text": "Intel Core Ultra 5 245KF\n14 4.2 GHz 5.2 GHz Arrow Lake 125 W None (0) €250.12Add",
+    "scraped_at": "2025-09-21T05:26:00.168558",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 7 7700",
+    "price": "€252.28",
+    "url": "https://fr.pcpartpicker.com/product/zrRnTW/amd-ryzen-7-7700-36-ghz-8-core-oemtray-processor-100-000000592",
+    "raw_text": "AMD Ryzen 7 7700\n8 3.6 GHz 5.3 GHz Zen 4 65 W Radeon (0) €252.28Add",
+    "scraped_at": "2025-09-21T05:26:00.173901",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-11600KF",
+    "price": "€252.57",
+    "url": "https://fr.pcpartpicker.com/product/K3Z9TW/intel-core-i5-11600kf-39-ghz-6-core-processor-bx8070811600kf",
+    "raw_text": "Intel Core i5-11600KF\n6 3.9 GHz 4.9 GHz Rocket Lake 125 W None (4) €252.57Add",
+    "scraped_at": "2025-09-21T05:26:00.179171",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 5 3600X",
+    "price": "€254.05",
+    "url": "https://fr.pcpartpicker.com/product/3WYLrH/amd-ryzen-5-3600x-38-ghz-6-core-processor-100-100000022box",
+    "raw_text": "AMD Ryzen 5 3600X\n6 3.8 GHz 4.4 GHz Zen 2 95 W None (201) €254.05Add",
+    "scraped_at": "2025-09-21T05:26:00.184538",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD A6-3500 3 2",
+    "price": "€254.39",
+    "url": "https://fr.pcpartpicker.com/product/v7Lypg/amd-cpu-ad3500ojgxbox",
+    "raw_text": "AMD A6-3500\n3 2.1 GHz Lynx 65 W Radeon HD 6530D (1) €254.39Add",
+    "scraped_at": "2025-09-21T05:26:00.189813",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-14500",
+    "price": "€255.00",
+    "url": "https://fr.pcpartpicker.com/product/KwXV3C/intel-core-i5-14500-26-ghz-14-core-processor-bx8071514500",
+    "raw_text": "Intel Core i5-14500\n14 2.6 GHz 5 GHz Raptor Lake Refresh 65 W Intel UHD Graphics 770 (3) €255.00Add",
+    "scraped_at": "2025-09-21T05:26:00.195220",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 5 PRO",
+    "price": "€257.45",
+    "url": "https://fr.pcpartpicker.com/product/WkwmP6/amd-ryzen-5-pro-7645-38-ghz-6-core-oemtray-processor-100-000000600",
+    "raw_text": "AMD Ryzen 5 PRO 7645\n6 3.8 GHz 5.1 GHz Zen 4 65 W Radeon (0) €257.45Add",
+    "scraped_at": "2025-09-21T05:26:00.200822",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-8700",
+    "price": "€258.88",
+    "url": "https://fr.pcpartpicker.com/product/C9hj4D/intel-core-i7-8700-32ghz-6-core-processor-bx80684i78700",
+    "raw_text": "Intel Core i7-8700\n6 3.2 GHz 4.6 GHz Coffee Lake 65 W Intel UHD Graphics 630 (65) €258.88Add",
+    "scraped_at": "2025-09-21T05:26:00.206023",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-9600",
+    "price": "€258.88",
+    "url": "https://fr.pcpartpicker.com/product/bKH8TW/intel-core-i5-9600-31-ghz-6-core-processor-bx80684i59600",
+    "raw_text": "Intel Core i5-9600\n6 3.1 GHz 4.6 GHz Coffee Lake Refresh 65 W Intel UHD Graphics 630 (0) €258.88Add",
+    "scraped_at": "2025-09-21T05:26:00.211406",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-3450",
+    "price": "€259.29",
+    "url": "https://fr.pcpartpicker.com/product/kxzv6h/intel-cpu-bx80637i53450",
+    "raw_text": "Intel Core i5-3450\n4 3.1 GHz Ivy Bridge 77 W Intel HD Graphics 2500 (8) €259.29Add",
+    "scraped_at": "2025-09-21T05:26:00.216884",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-3970X",
+    "price": "€259.68",
+    "url": "https://fr.pcpartpicker.com/product/spCwrH/intel-cpu-bx80619i73970x",
+    "raw_text": "Intel Core i7-3970X Extreme Edition\n6 3.5 GHz Sandy Bridge 150 W None (4) €259.68Add",
+    "scraped_at": "2025-09-21T05:26:00.222250",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 7 7700X",
+    "price": "€265.00",
+    "url": "https://fr.pcpartpicker.com/product/WfqPxr/amd-ryzen-7-7700x-45-ghz-8-core-processor-100-100000591wof",
+    "raw_text": "AMD Ryzen 7 7700X\n8 4.5 GHz 5.4 GHz Zen 4 105 W Radeon (202) €265.00Add",
+    "scraped_at": "2025-09-21T05:26:00.227390",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD A4-3400 2 2",
+    "price": "€266.93",
+    "url": "https://fr.pcpartpicker.com/product/vHH323/amd-cpu-ad3400ojhxbox",
+    "raw_text": "AMD A4-3400\n2 2.7 GHz Lynx 65 W Radeon HD 6410D (0) €266.93Add",
+    "scraped_at": "2025-09-21T05:26:00.232456",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core Ultra 5 245K 14 4",
+    "price": "€267.76",
+    "url": "https://fr.pcpartpicker.com/product/xNXV3C/intel-core-ultra-5-245k-42-ghz-14-core-processor-bx80768245k",
+    "raw_text": "Intel Core Ultra 5 245K\n14 4.2 GHz 5.2 GHz Arrow Lake 125 W Intel Xe (1) €267.76Add",
+    "scraped_at": "2025-09-21T05:26:00.237587",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 7 2700",
+    "price": "€268.66",
+    "url": "https://fr.pcpartpicker.com/product/WPQG3C/amd-ryzen-7-2700-32ghz-8-core-processor-yd2700bbafbox",
+    "raw_text": "AMD Ryzen 7 2700\n8 3.2 GHz 4.1 GHz Zen+ 65 W None (73) €268.66Add",
+    "scraped_at": "2025-09-21T05:26:00.242896",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core Ultra 7 265KF 20 3",
+    "price": "€270.00",
+    "url": "https://fr.pcpartpicker.com/product/8myH99/intel-core-ultra-7-265kf-39-ghz-20-core-processor-bx80768265kf",
+    "raw_text": "Intel Core Ultra 7 265KF\n20 3.9 GHz 5.5 GHz Arrow Lake 125 W None (3) €270.00Add",
+    "scraped_at": "2025-09-21T05:26:00.265061",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 7 8700G",
+    "price": "€270.10",
+    "url": "https://fr.pcpartpicker.com/product/K4vD4D/amd-ryzen-7-8700g-42-ghz-8-core-processor-100-100001236box",
+    "raw_text": "AMD Ryzen 7 8700G\n8 4.2 GHz 5.1 GHz Zen 4 65 W Radeon 780M (3) €270.10Add",
+    "scraped_at": "2025-09-21T05:26:00.270253",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-7500T",
+    "price": "€276.04",
+    "url": "https://fr.pcpartpicker.com/product/jCvZxr/intel-core-i5-7500t-27ghz-quad-core-oemtray-processor-cm8067702868115",
+    "raw_text": "Intel Core i5-7500T\n4 2.7 GHz 3.3 GHz Kaby Lake 35 W Intel HD Graphics 630 (0) €276.04Add",
+    "scraped_at": "2025-09-21T05:26:00.280581",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD A10-9700 4 3",
+    "price": "€276.17",
+    "url": "https://fr.pcpartpicker.com/product/n9s8TW/amd-a10-9700-35ghz-quad-core-processor-ad9700agabbox",
+    "raw_text": "AMD A10-9700\n4 3.5 GHz 3.8 GHz Excavator 65 W Radeon R7 (on-die) (0) €276.17Add",
+    "scraped_at": "2025-09-21T05:26:00.285784",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core Ultra 5 235 14 3",
+    "price": "€277.19",
+    "url": "https://fr.pcpartpicker.com/product/gjy8TW/intel-core-ultra-5-235-34-ghz-14-core-processor-bx80768235",
+    "raw_text": "Intel Core Ultra 5 235\n14 3.4 GHz 5 GHz Arrow Lake 65 W Intel Xe (1) €277.19Add",
+    "scraped_at": "2025-09-21T05:26:00.291175",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-9600K",
+    "price": "€278.88",
+    "url": "https://fr.pcpartpicker.com/product/28qhP6/intel-core-i5-9600k-37ghz-6-core-processor-bx80684i59600k",
+    "raw_text": "Intel Core i5-9600K\n6 3.7 GHz 4.6 GHz Coffee Lake Refresh 95 W Intel UHD Graphics 630 (147) €278.88Add",
+    "scraped_at": "2025-09-21T05:26:00.296397",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 5 2600",
+    "price": "€279.02",
+    "url": "https://fr.pcpartpicker.com/product/jLF48d/amd-ryzen-5-2600-34ghz-6-core-processor-yd2600bbafbox",
+    "raw_text": "AMD Ryzen 5 2600\n6 3.4 GHz 3.9 GHz Zen+ 65 W None (498) €279.02Add",
+    "scraped_at": "2025-09-21T05:26:00.301734",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-9500T",
+    "price": "€280.76",
+    "url": "https://fr.pcpartpicker.com/product/xscRsY/intel-core-i5-9500t-22-ghz-6-core-oemtray-processor-cm8068403362510",
+    "raw_text": "Intel Core i5-9500T\n6 2.2 GHz 3.7 GHz Coffee Lake Refresh 35 W Intel UHD Graphics 630 (0) €280.76Add",
+    "scraped_at": "2025-09-21T05:26:00.307086",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-3570",
+    "price": "€281.27",
+    "url": "https://fr.pcpartpicker.com/product/dVV48d/intel-cpu-bx80637i53570",
+    "raw_text": "Intel Core i5-3570\n4 3.4 GHz Ivy Bridge 77 W Intel HD Graphics 2500 (22) €281.27Add",
+    "scraped_at": "2025-09-21T05:26:00.312048",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD A10-9700E 4 3 GHz 3",
+    "price": "€281.75",
+    "url": "https://fr.pcpartpicker.com/product/fxyxFT/amd-a10-9700e-30ghz-quad-core-processor-ad9700ahabbox",
+    "raw_text": "AMD A10-9700E\n4 3 GHz 3.5 GHz Excavator 35 W Radeon R7 (on-die) (0) €281.75Add",
+    "scraped_at": "2025-09-21T05:26:00.317146",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core 2 Duo E4400 2 2 GHz Core 65 W None",
+    "price": "€284.26",
+    "url": "https://fr.pcpartpicker.com/product/yMH323/intel-cpu-bx80557e4400",
+    "raw_text": "Intel Core 2 Duo E4400\n2 2 GHz Core 65 W None (0) €284.26Add",
+    "scraped_at": "2025-09-21T05:26:00.322625",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 9 5900XT",
+    "price": "€284.98",
+    "url": "https://fr.pcpartpicker.com/product/nYvD4D/amd-ryzen-9-5900xt-33-ghz-16-core-processor-100-100001581wof",
+    "raw_text": "AMD Ryzen 9 5900XT\n16 3.3 GHz 4.8 GHz Zen 3 105 W None (1) €284.98Add",
+    "scraped_at": "2025-09-21T05:26:00.327999",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-12700",
+    "price": "€287.68",
+    "url": "https://fr.pcpartpicker.com/product/XVRYcf/intel-core-i7-12700-21-ghz-12-core-processor-bx8071512700",
+    "raw_text": "Intel Core i7-12700\n12 2.1 GHz 4.9 GHz Alder Lake 65 W Intel UHD Graphics 770 (9) €287.68Add",
+    "scraped_at": "2025-09-21T05:26:00.333103",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-9700KF",
+    "price": "€288.88",
+    "url": "https://fr.pcpartpicker.com/product/LhCD4D/intel-core-i7-9700kf-36-ghz-8-core-processor-bx80684i79700kf",
+    "raw_text": "Intel Core i7-9700KF\n8 3.6 GHz 4.9 GHz Coffee Lake Refresh 95 W None (7) €288.88Add",
+    "scraped_at": "2025-09-21T05:26:00.343424",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i5-9600KF",
+    "price": "€288.88",
+    "url": "https://fr.pcpartpicker.com/product/MBMwrH/intel-core-i5-9600kf-37-ghz-6-core-processor-bx80684i59600kf",
+    "raw_text": "Intel Core i5-9600KF\n6 3.7 GHz 4.6 GHz Coffee Lake Refresh 95 W None (11) €288.88Add",
+    "scraped_at": "2025-09-21T05:26:00.348306",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 5 1400",
+    "price": "€290.01",
+    "url": "https://fr.pcpartpicker.com/product/72wqqs/amd-ryzen-5-1400-32ghz-quad-core-processor-yd1400bbaebox",
+    "raw_text": "AMD Ryzen 5 1400\n4 3.2 GHz 3.4 GHz Zen 65 W None (52) €290.01Add",
+    "scraped_at": "2025-09-21T05:26:00.353765",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core i7-14700F",
+    "price": "€292.54",
+    "url": "https://fr.pcpartpicker.com/product/9jCZxr/intel-core-i7-14700f-21-ghz-20-core-processor-bx8071514700f",
+    "raw_text": "Intel Core i7-14700F\n20 2.1 GHz 5.4 GHz Raptor Lake Refresh 65 W None (1) €292.54Add",
+    "scraped_at": "2025-09-21T05:26:00.358873",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD Ryzen 7 9700X",
+    "price": "€294.89",
+    "url": "https://fr.pcpartpicker.com/product/YMzXsY/amd-ryzen-7-9700x-38-ghz-8-core-processor-100-100001404wof",
+    "raw_text": "AMD Ryzen 7 9700X\n8 3.8 GHz 5.5 GHz Zen 5 65 W Radeon (77) €294.89Add",
+    "scraped_at": "2025-09-21T05:26:00.363892",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "Intel Core Ultra 7 265K 20 3",
+    "price": "€297.67",
+    "url": "https://fr.pcpartpicker.com/product/mBsV3C/intel-core-ultra-7-265k-39-ghz-20-core-processor-bx80768265k",
+    "raw_text": "Intel Core Ultra 7 265K\n20 3.9 GHz 5.5 GHz Arrow Lake 125 W Intel Xe (14) €297.67Add",
+    "scraped_at": "2025-09-21T05:26:00.369208",
+    "source": "fr.pcpartpicker.com",
+    "page": 3
+  },
+  {
+    "name": "AMD A12-9800E 4 3",
+    "price": "€298.88",
+    "url": "https://fr.pcpartpicker.com/product/Ld38TW/amd-a12-9800e-31ghz-quad-core-processor-ad9800ahabbox",
+    "raw_text": "AMD A12-9800E\n4 3.1 GHz 3.8 GHz Excavator 35 W Radeon R7 (on-die) (0) €298.88Add",
+    "scraped_at": "2025-09-21T05:26:09.733612",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-6402P",
+    "price": "€299.45",
+    "url": "https://fr.pcpartpicker.com/product/JC648d/intel-core-i5-6402p-28ghz-quad-core-processor-bx80662i56402p",
+    "raw_text": "Intel Core i5-6402P\n4 2.8 GHz 3.4 GHz Skylake 65 W Intel HD Graphics 510 (2) €299.45Add",
+    "scraped_at": "2025-09-21T05:26:09.739000",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-10500",
+    "price": "€300.92",
+    "url": "https://fr.pcpartpicker.com/product/JKbCmG/intel-core-i5-10500-31-ghz-6-core-processor-bx8070110500",
+    "raw_text": "Intel Core i5-10500\n6 3.1 GHz 4.5 GHz Comet Lake 65 W Intel UHD Graphics 630 (0) €300.92Add",
+    "scraped_at": "2025-09-21T05:26:09.744857",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-2620 V3 6 2",
+    "price": "€304.57",
+    "url": "https://fr.pcpartpicker.com/product/fdnG3C/intel-cpu-bx80644e52620v3",
+    "raw_text": "Intel Xeon E5-2620 V3\n6 2.4 GHz 3.2 GHz Haswell 85 W None (0) €304.57Add",
+    "scraped_at": "2025-09-21T05:26:09.750318",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E-2124G 4 3",
+    "price": "€305.26",
+    "url": "https://fr.pcpartpicker.com/product/ZBKcCJ/intel-xeon-e-2124g-34-thz-quad-core-oemtray-processor-cm8068403654114",
+    "raw_text": "Intel Xeon E-2124G\n4 3.4 GHz 4.5 GHz Coffee Lake 71 W Intel HD Graphics P630 (0) €305.26Add",
+    "scraped_at": "2025-09-21T05:26:09.755937",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 9 7900",
+    "price": "€308.50",
+    "url": "https://fr.pcpartpicker.com/product/P3cG3C/amd-ryzen-9-7900-36-ghz-12-core-processor-100-100000590box",
+    "raw_text": "AMD Ryzen 9 7900\n12 3.7 GHz 5.4 GHz Zen 4 65 W Radeon (19) €308.50Add",
+    "scraped_at": "2025-09-21T05:26:09.761432",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-14700K",
+    "price": "€319.00",
+    "url": "https://fr.pcpartpicker.com/product/BmWJ7P/intel-core-i7-14700k-34-ghz-20-core-processor-bx8071514700k",
+    "raw_text": "Intel Core i7-14700K\n20 3.4 GHz 5.6 GHz Raptor Lake Refresh 125 W Intel UHD Graphics 770 (43) €319.00Add",
+    "scraped_at": "2025-09-21T05:26:09.777825",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 9 7900X",
+    "price": "€324.60",
+    "url": "https://fr.pcpartpicker.com/product/bwxRsY/amd-ryzen-9-7900x-47-ghz-12-core-processor-100-100000589wof",
+    "raw_text": "AMD Ryzen 9 7900X\n12 4.7 GHz 5.6 GHz Zen 4 170 W Radeon (101) €324.60Add",
+    "scraped_at": "2025-09-21T05:26:09.788371",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-13700F",
+    "price": "€324.66",
+    "url": "https://fr.pcpartpicker.com/product/xz8bt6/intel-core-i7-13700f-21-ghz-16-core-processor-bx8071513700f",
+    "raw_text": "Intel Core i7-13700F\n16 2.1 GHz 5.2 GHz Raptor Lake 65 W None (2) €324.66Add",
+    "scraped_at": "2025-09-21T05:26:09.793617",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 7 7800X",
+    "price": "€324.99",
+    "url": "https://fr.pcpartpicker.com/product/CzZWGX/amd-ryzen-7-7800x3d-42-ghz-8-core-oemtray-processor-100-000000910",
+    "raw_text": "AMD Ryzen 7 7800X3D\n8 4.2 GHz 5 GHz Zen 4 120 W Radeon (0) €324.99Add",
+    "scraped_at": "2025-09-21T05:26:09.799009",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-3330S",
+    "price": "€326.82",
+    "url": "https://fr.pcpartpicker.com/product/QP7v6h/intel-core-i5-3330s-27ghz-quad-core-oemtray-processor-cm8063701159804",
+    "raw_text": "Intel Core i5-3330S\n4 2.7 GHz 3.2 GHz Ivy Bridge 65 W Intel HD Graphics 2500 (0) €326.82Add",
+    "scraped_at": "2025-09-21T05:26:09.804458",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-10600KF",
+    "price": "€327.00",
+    "url": "https://fr.pcpartpicker.com/product/p6jNnQ/intel-core-i5-10600kf-41-ghz-6-core-processor-bx8070110600kf",
+    "raw_text": "Intel Core i5-10600KF\n6 4.1 GHz 4.8 GHz Comet Lake 125 W None (7) €327.00Add",
+    "scraped_at": "2025-09-21T05:26:09.809795",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-12900KF",
+    "price": "€327.98",
+    "url": "https://fr.pcpartpicker.com/product/2sstt6/intel-core-i9-12900kf-32-ghz-8-core-processor-bx8071512900kf",
+    "raw_text": "Intel Core i9-12900KF\n16 3.2 GHz 5.2 GHz Alder Lake 125 W None (8) €327.98Add",
+    "scraped_at": "2025-09-21T05:26:09.815221",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-11700F",
+    "price": "€328.88",
+    "url": "https://fr.pcpartpicker.com/product/QDcG3C/intel-core-i7-11700f-25-ghz-8-core-processor-bx8070811700f",
+    "raw_text": "Intel Core i7-11700F\n8 2.5 GHz 4.9 GHz Rocket Lake 65 W None (2) €328.88Add",
+    "scraped_at": "2025-09-21T05:26:09.820530",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-11500",
+    "price": "€328.88",
+    "url": "https://fr.pcpartpicker.com/product/FsXJ7P/intel-core-i5-11500-27-ghz-6-core-processor-bx8070811500",
+    "raw_text": "Intel Core i5-11500\n6 2.7 GHz 4.6 GHz Rocket Lake 65 W Intel UHD Graphics 750 (9) €328.88Add",
+    "scraped_at": "2025-09-21T05:26:09.825980",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-4570S",
+    "price": "€335.43",
+    "url": "https://fr.pcpartpicker.com/product/XbjWGX/intel-cpu-cm8064601465605",
+    "raw_text": "Intel Core i5-4570S\n4 2.9 GHz Haswell 65 W Intel HD Graphics 4600 (0) €335.43Add",
+    "scraped_at": "2025-09-21T05:26:09.831337",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-10700K",
+    "price": "€338.88",
+    "url": "https://fr.pcpartpicker.com/product/yhxbt6/intel-core-i7-10700k-38-ghz-8-core-processor-bx8070110700k",
+    "raw_text": "Intel Core i7-10700K\n8 3.8 GHz 5.1 GHz Comet Lake 125 W Intel UHD Graphics 630 (104) €338.88Add",
+    "scraped_at": "2025-09-21T05:26:09.841705",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-10700",
+    "price": "€338.88",
+    "url": "https://fr.pcpartpicker.com/product/dLK2FT/intel-core-i7-10700-29-ghz-8-core-processor-bx8070110700",
+    "raw_text": "Intel Core i7-10700\n8 2.9 GHz 4.8 GHz Comet Lake 65 W Intel UHD Graphics 630 (30) €338.88Add",
+    "scraped_at": "2025-09-21T05:26:09.847433",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-11900KF",
+    "price": "€338.88",
+    "url": "https://fr.pcpartpicker.com/product/9rrRsY/intel-core-i9-11900kf-35-ghz-8-core-processor-bx8070811900kf",
+    "raw_text": "Intel Core i9-11900KF\n8 3.5 GHz 5.3 GHz Rocket Lake 125 W None (3) €338.88Add",
+    "scraped_at": "2025-09-21T05:26:09.852970",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-6950X",
+    "price": "€338.88",
+    "url": "https://fr.pcpartpicker.com/product/MJM323/intel-cpu-bx80671i76950x",
+    "raw_text": "Intel Core i7-6950X\n10 3 GHz 3.5 GHz Broadwell 140 W None (4) €338.88Add",
+    "scraped_at": "2025-09-21T05:26:09.858281",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-11700",
+    "price": "€339.72",
+    "url": "https://fr.pcpartpicker.com/product/7RTp99/intel-core-i7-11700-25-ghz-8-core-processor-bx8070811700",
+    "raw_text": "Intel Core i7-11700\n8 2.5 GHz 4.9 GHz Rocket Lake 65 W Intel UHD Graphics 750 (11) €339.72Add",
+    "scraped_at": "2025-09-21T05:26:09.863731",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": "€339.98",
+    "url": "https://fr.pcpartpicker.com/product/gGH7YJ/intel-core-i9-12900k-32-ghz-8-core-processor-bx8071512900k",
+    "raw_text": "Intel Core i9-12900K\n16 3.2 GHz 5.2 GHz Alder Lake 125 W Intel UHD Graphics 770 (73) €339.98Add",
+    "scraped_at": "2025-09-21T05:26:09.868920",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-14700",
+    "price": "€339.99",
+    "url": "https://fr.pcpartpicker.com/product/7rXV3C/intel-core-i7-14700-21-ghz-20-core-processor-bx8071514700",
+    "raw_text": "Intel Core i7-14700\n20 2.1 GHz 5.4 GHz Raptor Lake Refresh 65 W Intel UHD Graphics 770 (1) €339.99Add",
+    "scraped_at": "2025-09-21T05:26:09.874272",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-13700",
+    "price": "€340.08",
+    "url": "https://fr.pcpartpicker.com/product/8VqPxr/intel-core-i7-13700-21-ghz-16-core-processor-bx8071513700",
+    "raw_text": "Intel Core i7-13700\n16 2.1 GHz 5.2 GHz Raptor Lake 65 W Intel UHD Graphics 770 (5) €340.08Add",
+    "scraped_at": "2025-09-21T05:26:09.879593",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core Ultra 7 265F 20 2",
+    "price": "€340.28",
+    "url": "https://fr.pcpartpicker.com/product/hw62FT/intel-core-ultra-7-265f-24-ghz-20-core-processor-bx80768265f",
+    "raw_text": "Intel Core Ultra 7 265F\n20 2.4 GHz 5.3 GHz Arrow Lake 65 W None (1) €340.28Add",
+    "scraped_at": "2025-09-21T05:26:09.886831",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 5 4600G",
+    "price": "€343.00",
+    "url": "https://fr.pcpartpicker.com/product/CNVmP6/amd-ryzen-5-4600g-37-ghz-6-core-processor-100-100000147box",
+    "raw_text": "AMD Ryzen 5 4600G\n6 3.7 GHz 4.2 GHz Zen 2 65 W Radeon Vega 7 (12) €343.00Add",
+    "scraped_at": "2025-09-21T05:26:09.892441",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Threadripper 1920X 12 3",
+    "price": "€346.48",
+    "url": "https://fr.pcpartpicker.com/product/cRDzK8/amd-threadripper-1920x-35ghz-12-core-processor-yd192xa8aewof",
+    "raw_text": "AMD Threadripper 1920X\n12 3.5 GHz 4 GHz Zen 180 W None (8) €346.48Add",
+    "scraped_at": "2025-09-21T05:26:09.897739",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-9700K",
+    "price": "€348.38",
+    "url": "https://fr.pcpartpicker.com/product/WtyV3C/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k",
+    "raw_text": "Intel Core i7-9700K\n8 3.6 GHz 4.9 GHz Coffee Lake Refresh 95 W Intel UHD Graphics 630 (225) €348.38Add",
+    "scraped_at": "2025-09-21T05:26:09.903132",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-14700KF",
+    "price": "€348.98",
+    "url": "https://fr.pcpartpicker.com/product/TWP8TW/intel-core-i7-14700kf-34-ghz-20-core-processor-bx8071514700kf",
+    "raw_text": "Intel Core i7-14700KF\n20 3.4 GHz 5.6 GHz Raptor Lake Refresh 125 W None (15) €348.98Add",
+    "scraped_at": "2025-09-21T05:26:09.908713",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 9 5900X",
+    "price": "€351.50",
+    "url": "https://fr.pcpartpicker.com/product/KwLwrH/amd-ryzen-9-5900x-37-ghz-12-core-processor-100-100000061wof",
+    "raw_text": "AMD Ryzen 9 5900X\n12 3.7 GHz 4.8 GHz Zen 3 105 W None (247) €351.50Add",
+    "scraped_at": "2025-09-21T05:26:09.914350",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-12900KS",
+    "price": "€353.75",
+    "url": "https://fr.pcpartpicker.com/product/sn4Ycf/intel-core-i9-12900ks-34-ghz-16-core-processor-bx8071512900ks",
+    "raw_text": "Intel Core i9-12900KS\n16 3.4 GHz 5.5 GHz Alder Lake 150 W Intel UHD Graphics 770 (7) €353.75Add",
+    "scraped_at": "2025-09-21T05:26:09.919710",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Threadripper 1900X 8 3",
+    "price": "€354.97",
+    "url": "https://fr.pcpartpicker.com/product/BvgPxr/amd-threadripper-1900x-38ghz-8-core-processor-yd190xa8aewof",
+    "raw_text": "AMD Threadripper 1900X\n8 3.8 GHz 4 GHz Zen 180 W None (6) €354.97Add",
+    "scraped_at": "2025-09-21T05:26:09.924976",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-1650 V2 6 3",
+    "price": "€355.60",
+    "url": "https://fr.pcpartpicker.com/product/YgYXsY/intel-cpu-cm8063501292204",
+    "raw_text": "Intel Xeon E5-1650 V2\n6 3.5 GHz 3.9 GHz Ivy Bridge 130 W None (1) €355.60Add",
+    "scraped_at": "2025-09-21T05:26:09.929944",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-13700KF",
+    "price": "€355.94",
+    "url": "https://fr.pcpartpicker.com/product/w86p99/intel-core-i7-13700kf-34-ghz-16-core-processor-bx8071513700kf",
+    "raw_text": "Intel Core i7-13700KF\n16 3.4 GHz 5.4 GHz Raptor Lake 125 W None (25) €355.94Add",
+    "scraped_at": "2025-09-21T05:26:09.935430",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core Ultra 7 265 20 2",
+    "price": "€358.25",
+    "url": "https://fr.pcpartpicker.com/product/HTBFf7/intel-core-ultra-7-265-24-ghz-20-core-processor-bx80768265",
+    "raw_text": "Intel Core Ultra 7 265\n20 2.4 GHz 5.3 GHz Arrow Lake 65 W Intel Xe (0) €358.25Add",
+    "scraped_at": "2025-09-21T05:26:09.940591",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-10700KF",
+    "price": "€358.88",
+    "url": "https://fr.pcpartpicker.com/product/sT3mP6/intel-core-i7-10700kf-38-ghz-8-core-processor-bx8070110700kf",
+    "raw_text": "Intel Core i7-10700KF\n8 3.8 GHz 5.1 GHz Comet Lake 125 W None (8) €358.88Add",
+    "scraped_at": "2025-09-21T05:26:09.945492",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-2683 V4 16 2",
+    "price": "€359.77",
+    "url": "https://fr.pcpartpicker.com/product/B2mxFT/intel-cpu-cm8066002023604",
+    "raw_text": "Intel Xeon E5-2683 V4\n16 2.1 GHz 3 GHz Broadwell 120 W None (0) €359.77Add",
+    "scraped_at": "2025-09-21T05:26:09.950910",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Celeron G530 2 2",
+    "price": "€364.55",
+    "url": "https://fr.pcpartpicker.com/product/DdR48d/intel-cpu-bx80623g530",
+    "raw_text": "Intel Celeron G530\n2 2.4 GHz Sandy Bridge 65 W Intel HD Graphics (1) €364.55Add",
+    "scraped_at": "2025-09-21T05:26:09.961387",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-9700",
+    "price": "€366.99",
+    "url": "https://fr.pcpartpicker.com/product/sXsnTW/intel-core-i7-9700-3-ghz-8-core-oemtray-processor-cm8068403874521",
+    "raw_text": "Intel Core i7-9700\n8 3 GHz 4.7 GHz Coffee Lake Refresh 65 W Intel HD Graphics 630 (0) €366.99Add",
+    "scraped_at": "2025-09-21T05:26:09.972371",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-10700F",
+    "price": "€368.88",
+    "url": "https://fr.pcpartpicker.com/product/PCvqqs/intel-core-i7-10700f-29-ghz-8-core-processor-bx8070110700f",
+    "raw_text": "Intel Core i7-10700F\n8 2.9 GHz 4.8 GHz Comet Lake 65 W None (9) €368.88Add",
+    "scraped_at": "2025-09-21T05:26:09.977676",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 7 2700X",
+    "price": "€371.15",
+    "url": "https://fr.pcpartpicker.com/product/bddxFT/amd-ryzen-7-2700x-37ghz-8-core-processor-yd270xbgafbox",
+    "raw_text": "AMD Ryzen 7 2700X\n8 3.7 GHz 4.3 GHz Zen+ 105 W None (359) €371.15Add",
+    "scraped_at": "2025-09-21T05:26:09.983226",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i3-3245",
+    "price": "€373.20",
+    "url": "https://fr.pcpartpicker.com/product/3wR48d/intel-cpu-bx80637i33245",
+    "raw_text": "Intel Core i3-3245\n2 3.4 GHz Ivy Bridge 55 W Intel HD Graphics 4000 (1) €373.20Add",
+    "scraped_at": "2025-09-21T05:26:09.988244",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-5960X",
+    "price": "€379.82",
+    "url": "https://fr.pcpartpicker.com/product/TcQypg/intel-cpu-bx80648i75960x",
+    "raw_text": "Intel Core i7-5960X\n8 3 GHz 3.5 GHz Haswell 140 W None (16) €379.82Add",
+    "scraped_at": "2025-09-21T05:26:09.993216",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-3770K",
+    "price": "€384.15",
+    "url": "https://fr.pcpartpicker.com/product/7KjG3C/intel-cpu-bx80637i73770k",
+    "raw_text": "Intel Core i7-3770K\n4 3.5 GHz Ivy Bridge 77 W Intel HD Graphics 4000 (218) €384.15Add",
+    "scraped_at": "2025-09-21T05:26:09.998559",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-9700F",
+    "price": "€388.85",
+    "url": "https://fr.pcpartpicker.com/product/W4848d/intel-core-i7-9700f-3-ghz-8-core-processor-bx80684i79700f",
+    "raw_text": "Intel Core i7-9700F\n8 3 GHz 4.7 GHz Coffee Lake Refresh 65 W None (2) €388.85Add",
+    "scraped_at": "2025-09-21T05:26:10.003858",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-11700KF",
+    "price": "€388.88",
+    "url": "https://fr.pcpartpicker.com/product/Fgt9TW/intel-core-i7-11700kf-36-ghz-8-core-processor-bx8070811700kf",
+    "raw_text": "Intel Core i7-11700KF\n8 3.6 GHz 5 GHz Rocket Lake 125 W None (3) €388.88Add",
+    "scraped_at": "2025-09-21T05:26:10.008897",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-8086K",
+    "price": "€388.88",
+    "url": "https://fr.pcpartpicker.com/product/CgqhP6/intel-core-i7-8086k-4ghz-6-core-processor-bx80684i78086k",
+    "raw_text": "Intel Core i7-8086K\n6 4 GHz 5 GHz Coffee Lake 95 W Intel UHD Graphics 630 (19) €388.88Add",
+    "scraped_at": "2025-09-21T05:26:10.014145",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 9 9900X",
+    "price": "€390.00",
+    "url": "https://fr.pcpartpicker.com/product/Z6GhP6/amd-ryzen-9-9900x-44-ghz-12-core-processor-100-100000662wof",
+    "raw_text": "AMD Ryzen 9 9900X\n12 4.4 GHz 5.6 GHz Zen 5 120 W Radeon (33) €390.00Add",
+    "scraped_at": "2025-09-21T05:26:10.019292",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Opteron 6344 12 2",
+    "price": "€391.00",
+    "url": "https://fr.pcpartpicker.com/product/GzQypg/amd-cpu-os6344wktcghkwof",
+    "raw_text": "AMD Opteron 6344\n12 2.6 GHz 3.2 GHz Piledriver 115 W None (0) €391.00Add",
+    "scraped_at": "2025-09-21T05:26:10.024466",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-12900F",
+    "price": "€398.74",
+    "url": "https://fr.pcpartpicker.com/product/vDXJ7P/intel-core-i9-12900f-24-ghz-16-core-processor-bx8071512900f",
+    "raw_text": "Intel Core i9-12900F\n16 2.4 GHz 5.1 GHz Alder Lake 65 W None (0) €398.74Add",
+    "scraped_at": "2025-09-21T05:26:10.029968",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-10900F",
+    "price": "€398.88",
+    "url": "https://fr.pcpartpicker.com/product/DYtKHx/intel-core-i9-10900f-28-ghz-10-core-processor-bx8070110900f",
+    "raw_text": "Intel Core i9-10900F\n10 2.8 GHz 5.2 GHz Comet Lake 65 W None (4) €398.88Add",
+    "scraped_at": "2025-09-21T05:26:10.035299",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E3-1230 V2 4 3",
+    "price": "€400.16",
+    "url": "https://fr.pcpartpicker.com/product/VQrG3C/intel-cpu-bx80637e31230v2",
+    "raw_text": "Intel Xeon E3-1230 V2\n4 3.3 GHz Ivy Bridge 69 W None (7) €400.16Add",
+    "scraped_at": "2025-09-21T05:26:10.040578",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Celeron G4900T 2 1",
+    "price": "€404.12",
+    "url": "https://fr.pcpartpicker.com/product/WWBTwP/intel-celeron-g4900t-18ghz-dual-core-oemtray-processor-cm8068403379312",
+    "raw_text": "Intel Celeron G4900T\n2 1.8 GHz Coffee Lake 35 W Intel UHD Graphics 610 (0) €404.12Add",
+    "scraped_at": "2025-09-21T05:26:10.046021",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-2430V2 6 2",
+    "price": "€408.00",
+    "url": "https://fr.pcpartpicker.com/product/7K8H99/intel-xeon-e5-2430v2-25ghz-6-core-processor-bx80634e52430v2",
+    "raw_text": "Intel Xeon E5-2430V2\n6 2.5 GHz 3 GHz Ivy Bridge 80 W None (1) €408.00Add",
+    "scraped_at": "2025-09-21T05:26:10.056136",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-7600T",
+    "price": "€414.58",
+    "url": "https://fr.pcpartpicker.com/product/nrhj4D/intel-core-i5-7600t-28ghz-quad-core-oemtray-processor-cm8067702868117",
+    "raw_text": "Intel Core i5-7600T\n4 2.8 GHz 3.7 GHz Kaby Lake 35 W Intel HD Graphics 630 (0) €414.58Add",
+    "scraped_at": "2025-09-21T05:26:10.066572",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E3-1220 V6 4 3 GHz 3",
+    "price": "€415.38",
+    "url": "https://fr.pcpartpicker.com/product/vFzZxr/intel-xeon-e3-1220-v6-30ghz-quad-core-oemtray-processor-cm8067702870812",
+    "raw_text": "Intel Xeon E3-1220 V6\n4 3 GHz 3.5 GHz Kaby Lake 72 W None (0) €415.38Add",
+    "scraped_at": "2025-09-21T05:26:10.071835",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-13900F",
+    "price": "€424.04",
+    "url": "https://fr.pcpartpicker.com/product/rkGbt6/intel-core-i9-13900f-2-ghz-24-core-processor-bx8071513900f",
+    "raw_text": "Intel Core i9-13900F\n24 2 GHz 5.6 GHz Raptor Lake 65 W None (0) €424.04Add",
+    "scraped_at": "2025-09-21T05:26:10.082221",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-11700K",
+    "price": "€428.88",
+    "url": "https://fr.pcpartpicker.com/product/VW3gXL/intel-core-i7-11700k-36-ghz-8-core-processor-bx8070811700k",
+    "raw_text": "Intel Core i7-11700K\n8 3.6 GHz 5 GHz Rocket Lake 125 W Intel UHD Graphics 750 (41) €428.88Add",
+    "scraped_at": "2025-09-21T05:26:10.087232",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-9900KF",
+    "price": "€428.88",
+    "url": "https://fr.pcpartpicker.com/product/G7KcCJ/intel-core-i9-9900kf-36-ghz-8-core-processor-bx80684i99900kf",
+    "raw_text": "Intel Core i9-9900KF\n8 3.6 GHz 5 GHz Coffee Lake Refresh 95 W None (17) €428.88Add",
+    "scraped_at": "2025-09-21T05:26:10.092710",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-12900",
+    "price": "€428.98",
+    "url": "https://fr.pcpartpicker.com/product/JpJgXL/intel-core-i9-12900-24-ghz-16-core-processor-bx8071512900",
+    "raw_text": "Intel Core i9-12900\n16 2.4 GHz 5.1 GHz Alder Lake 65 W Intel UHD Graphics 770 (0) €428.98Add",
+    "scraped_at": "2025-09-21T05:26:10.097734",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-14900KF",
+    "price": "€429.00",
+    "url": "https://fr.pcpartpicker.com/product/YJRwrH/intel-core-i9-14900kf-32-ghz-24-core-processor-bx8071514900kf",
+    "raw_text": "Intel Core i9-14900KF\n24 3.2 GHz 6 GHz Raptor Lake Refresh 125 W None (14) €429.00Add",
+    "scraped_at": "2025-09-21T05:26:10.102775",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E3-1241 V3 4 3",
+    "price": "€434.21",
+    "url": "https://fr.pcpartpicker.com/product/rjPfrH/intel-cpu-bx80646e31241v3",
+    "raw_text": "Intel Xeon E3-1241 V3\n4 3.5 GHz 3.9 GHz Haswell Refresh 80 W None (9) €434.21Add",
+    "scraped_at": "2025-09-21T05:26:10.108014",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-14900F",
+    "price": "€437.19",
+    "url": "https://fr.pcpartpicker.com/product/RNjRsY/intel-core-i9-14900f-2-ghz-24-core-processor-bx8071514900f",
+    "raw_text": "Intel Core i9-14900F\n24 2 GHz 5.8 GHz Raptor Lake Refresh 65 W None (0) €437.19Add",
+    "scraped_at": "2025-09-21T05:26:10.112939",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Pentium Gold G6605 2 4",
+    "price": "€437.50",
+    "url": "https://fr.pcpartpicker.com/product/tNPQzy/intel-pentium-gold-g6605-43-ghz-dual-core-processor-bx80701g6605",
+    "raw_text": "Intel Pentium Gold G6605\n2 4.3 GHz Comet Lake 58 W Intel UHD Graphics 630 (0) €437.50Add",
+    "scraped_at": "2025-09-21T05:26:10.117899",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i5-3550",
+    "price": "€438.33",
+    "url": "https://fr.pcpartpicker.com/product/8fW9TW/intel-cpu-bx80637i53550",
+    "raw_text": "Intel Core i5-3550\n4 3.3 GHz Ivy Bridge 77 W Intel HD Graphics 2500 (3) €438.33Add",
+    "scraped_at": "2025-09-21T05:26:10.123231",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 9 PRO",
+    "price": "€447.00",
+    "url": "https://fr.pcpartpicker.com/product/jTrqqs/amd-ryzen-9-pro-7945-37-ghz-12-core-oemtray-processor-100-000000598",
+    "raw_text": "AMD Ryzen 9 PRO 7945\n12 3.7 GHz 5.4 GHz Zen 4 65 W Radeon (0) €447.00Add",
+    "scraped_at": "2025-09-21T05:26:10.128705",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i3-4130",
+    "price": "€450.00",
+    "url": "https://fr.pcpartpicker.com/product/KDGkcf/intel-cpu-bx80646i34130",
+    "raw_text": "Intel Core i3-4130\n2 3.4 GHz Haswell 54 W Intel HD Graphics 4400 (38) €450.00Add",
+    "scraped_at": "2025-09-21T05:26:10.133904",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-2650L V3 12 1",
+    "price": "€455.19",
+    "url": "https://fr.pcpartpicker.com/product/vcCrxr/intel-cpu-cm8064401575702",
+    "raw_text": "Intel Xeon E5-2650L V3\n12 1.8 GHz 2.5 GHz Haswell 65 W None (0) €455.19Add",
+    "scraped_at": "2025-09-21T05:26:10.139610",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-11900F",
+    "price": "€468.88",
+    "url": "https://fr.pcpartpicker.com/product/RvfnTW/intel-core-i9-11900f-25-ghz-8-core-processor-bx8070811900f",
+    "raw_text": "Intel Core i9-11900F\n8 2.5 GHz 5.2 GHz Rocket Lake 65 W None (0) €468.88Add",
+    "scraped_at": "2025-09-21T05:26:10.144578",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 7 9800X",
+    "price": "€473.00",
+    "url": "https://fr.pcpartpicker.com/product/fPyH99/amd-ryzen-7-9800x3d-47-ghz-8-core-processor-100-1000001084wof",
+    "raw_text": "AMD Ryzen 7 9800X3D\n8 4.7 GHz 5.2 GHz Zen 5 120 W Radeon (251) €473.00Add",
+    "scraped_at": "2025-09-21T05:26:10.149786",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-2670 V3 12 2",
+    "price": "€477.82",
+    "url": "https://fr.pcpartpicker.com/product/jnTrxr/intel-cpu-bx80644e52670v3",
+    "raw_text": "Intel Xeon E5-2670 V3\n12 2.3 GHz 3.1 GHz Haswell 120 W None (1) €477.82Add",
+    "scraped_at": "2025-09-21T05:26:10.155058",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-7920X",
+    "price": "€488.88",
+    "url": "https://fr.pcpartpicker.com/product/x3648d/intel-core-i9-7920x-29ghz-12-core-processor-bx80673i97920x",
+    "raw_text": "Intel Core i9-7920X\n12 2.9 GHz 4.4 GHz Skylake 140 W None (0) €488.88Add",
+    "scraped_at": "2025-09-21T05:26:10.160283",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-9900",
+    "price": "€488.88",
+    "url": "https://fr.pcpartpicker.com/product/GWMwrH/intel-core-i9-9900-31-ghz-8-core-processor-bx80684i99900",
+    "raw_text": "Intel Core i9-9900\n8 3.1 GHz 5 GHz Coffee Lake Refresh 65 W Intel UHD Graphics 630 (3) €488.88Add",
+    "scraped_at": "2025-09-21T05:26:10.165446",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-14900K",
+    "price": "€489.98",
+    "url": "https://fr.pcpartpicker.com/product/ZLjRsY/intel-core-i9-14900k-32-ghz-24-core-processor-bx8071514900k",
+    "raw_text": "Intel Core i9-14900K\n24 3.2 GHz 6 GHz Raptor Lake Refresh 125 W Intel UHD Graphics 770 (39) €489.98Add",
+    "scraped_at": "2025-09-21T05:26:10.170604",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD FX-8370 8 4 GHz 4",
+    "price": "€492.39",
+    "url": "https://fr.pcpartpicker.com/product/2WGj4D/amd-cpu-fd8370frhkbox",
+    "raw_text": "AMD FX-8370\n8 4 GHz 4.3 GHz Piledriver 125 W None (17) €492.39Add",
+    "scraped_at": "2025-09-21T05:26:10.175692",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-6900K",
+    "price": "€492.55",
+    "url": "https://fr.pcpartpicker.com/product/n3yxFT/intel-cpu-cm8067102056010",
+    "raw_text": "Intel Core i7-6900K\n8 3.2 GHz 3.7 GHz Broadwell 140 W None (0) €492.55Add",
+    "scraped_at": "2025-09-21T05:26:10.180795",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-2650L V4 14 1",
+    "price": "€493.63",
+    "url": "https://fr.pcpartpicker.com/product/MLs8TW/intel-xeon-e5-2650l-v4-17ghz-14-core-oemtray-processor-cm8066002033006",
+    "raw_text": "Intel Xeon E5-2650L V4\n14 1.7 GHz 2.5 GHz Broadwell 65 W None (0) €493.63Add",
+    "scraped_at": "2025-09-21T05:26:10.185961",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-13900KF",
+    "price": "€496.85",
+    "url": "https://fr.pcpartpicker.com/product/CgkWGX/intel-core-i9-13900kf-3-ghz-24-core-processor-bx8071513900kf",
+    "raw_text": "Intel Core i9-13900KF\n24 3 GHz 5.8 GHz Raptor Lake 125 W None (16) €496.85Add",
+    "scraped_at": "2025-09-21T05:26:10.191010",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i9-9900K",
+    "price": "€498.88",
+    "url": "https://fr.pcpartpicker.com/product/jHZFf7/intel-core-i9-9900k-36ghz-8-core-processor-bx80684i99900k",
+    "raw_text": "Intel Core i9-9900K\n8 3.6 GHz 5 GHz Coffee Lake Refresh 95 W Intel UHD Graphics 630 (211) €498.88Add",
+    "scraped_at": "2025-09-21T05:26:10.196209",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD FX-9590 8 4",
+    "price": "€499.22",
+    "url": "https://fr.pcpartpicker.com/product/pGrG3C/amd-cpu-fd9590fhhkwof",
+    "raw_text": "AMD FX-9590\n8 4.7 GHz 5 GHz Piledriver 220 W None (29) €499.22Add",
+    "scraped_at": "2025-09-21T05:26:10.201472",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E5-2699 V4 22 2",
+    "price": "€502.51",
+    "url": "https://fr.pcpartpicker.com/product/rd98TW/intel-cpu-cm8066002022506",
+    "raw_text": "Intel Xeon E5-2699 V4\n22 2.2 GHz 3.6 GHz Broadwell 145 W None (1) €502.51Add",
+    "scraped_at": "2025-09-21T05:26:10.206389",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E-2176G 6 3",
+    "price": "€502.99",
+    "url": "https://fr.pcpartpicker.com/product/DYF48d/intel-xeon-e-2176g-37-thz-6-core-oemtray-processor-cm8068403380018",
+    "raw_text": "Intel Xeon E-2176G\n6 3.7 GHz 4.7 GHz Coffee Lake 80 W Intel HD Graphics P630 (0) €502.99Add",
+    "scraped_at": "2025-09-21T05:26:10.211952",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 7 1700",
+    "price": "€508.21",
+    "url": "https://fr.pcpartpicker.com/product/3kPzK8/amd-ryzen-7-1700-30ghz-8-core-processor-yd1700bbaebox",
+    "raw_text": "AMD Ryzen 7 1700\n8 3 GHz 3.7 GHz Zen 65 W None (168) €508.21Add",
+    "scraped_at": "2025-09-21T05:26:10.217640",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E-2104G 4 3",
+    "price": "€513.00",
+    "url": "https://fr.pcpartpicker.com/product/4qRgXL/intel-xeon-e-2104g-32-thz-quad-core-oemtray-processor-cm8068403653917",
+    "raw_text": "Intel Xeon E-2104G\n4 3.2 GHz Coffee Lake 65 W Intel HD Graphics P630 (0) €513.00Add",
+    "scraped_at": "2025-09-21T05:26:10.223297",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 5 1500X",
+    "price": "€515.61",
+    "url": "https://fr.pcpartpicker.com/product/VtFXsY/amd-ryzen-5-1500x-35ghz-quad-core-processor-yd150xbbaebox",
+    "raw_text": "AMD Ryzen 5 1500X\n4 3.5 GHz 3.7 GHz Zen 65 W None (51) €515.61Add",
+    "scraped_at": "2025-09-21T05:26:10.234108",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core i7-13700K",
+    "price": "€526.94",
+    "url": "https://fr.pcpartpicker.com/product/Mm6p99/intel-core-i7-13700k-34-ghz-16-core-processor-bx8071513700k",
+    "raw_text": "Intel Core i7-13700K\n16 3.4 GHz 5.4 GHz Raptor Lake 125 W Intel UHD Graphics 770 (132) €526.94Add",
+    "scraped_at": "2025-09-21T05:26:10.239459",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Core Ultra 9 285K 24 3",
+    "price": "€529.00",
+    "url": "https://fr.pcpartpicker.com/product/VHYRsY/intel-core-ultra-9-285k-37-ghz-24-core-processor-bx80768285k",
+    "raw_text": "Intel Core Ultra 9 285K\n24 3.7 GHz 5.7 GHz Arrow Lake 125 W Intel Xe (5) €529.00Add",
+    "scraped_at": "2025-09-21T05:26:10.244927",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "AMD Ryzen 9 9950X",
+    "price": "€534.94",
+    "url": "https://fr.pcpartpicker.com/product/T6GhP6/amd-ryzen-9-9950x-43-ghz-16-core-processor-100-100001277wof",
+    "raw_text": "AMD Ryzen 9 9950X\n16 4.3 GHz 5.7 GHz Zen 5 170 W Radeon (18) €534.94Add",
+    "scraped_at": "2025-09-21T05:26:10.250430",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E-2274G 4 4 GHz 4",
+    "price": "€542.99",
+    "url": "https://fr.pcpartpicker.com/product/GGPgXL/intel-xeon-e-2274g-4-thz-quad-core-oemtray-processor-cm8068404174407",
+    "raw_text": "Intel Xeon E-2274G\n4 4 GHz 4.9 GHz Coffee Lake Refresh 83 W Intel HD Graphics P630 (0) €542.99Add",
+    "scraped_at": "2025-09-21T05:26:10.255606",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E3-1220 V2 4 3",
+    "price": "€543.48",
+    "url": "https://fr.pcpartpicker.com/product/6gGkcf/intel-cpu-bx80637e31220v2",
+    "raw_text": "Intel Xeon E3-1220 V2\n4 3.1 GHz Ivy Bridge 69 W None (0) €543.48Add",
+    "scraped_at": "2025-09-21T05:26:10.260985",
+    "source": "fr.pcpartpicker.com",
+    "page": 4
+  },
+  {
+    "name": "Intel Xeon E3-1225 V6 4 3",
+    "price": "€544.16",
+    "url": "https://fr.pcpartpicker.com/product/hrTrxr/intel-xeon-e3-1225-v6-33ghz-quad-core-oemtray-processor-cm8067702871024",
+    "raw_text": "Intel Xeon E3-1225 V6\n4 3.3 GHz 3.7 GHz Kaby Lake 73 W Intel HD Graphics P630 (0) €544.16Add",
+    "scraped_at": "2025-09-21T05:26:19.685040",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Ryzen 9 7950X",
+    "price": "€558.02",
+    "url": "https://fr.pcpartpicker.com/product/22XJ7P/amd-ryzen-9-7950x-45-ghz-16-core-processor-100-100000514wof",
+    "raw_text": "AMD Ryzen 9 7950X\n16 4.5 GHz 5.7 GHz Zen 4 170 W Radeon (50) €558.02Add",
+    "scraped_at": "2025-09-21T05:26:19.690285",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD FX-8370E 8 3",
+    "price": "€565.08",
+    "url": "https://fr.pcpartpicker.com/product/8j4NnQ/amd-cpu-fd837ewmhkbox",
+    "raw_text": "AMD FX-8370E\n8 3.3 GHz 4.3 GHz Piledriver 95 W None (0) €565.08Add",
+    "scraped_at": "2025-09-21T05:26:19.695952",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E-2236 6 3",
+    "price": "€574.36",
+    "url": "https://fr.pcpartpicker.com/product/YTYQzy/intel-xeon-e-2236-34-thz-6-core-oemtray-processor-cm8068404174603",
+    "raw_text": "Intel Xeon E-2236\n6 3.4 GHz 4.8 GHz Coffee Lake Refresh 80 W None (0) €574.36Add",
+    "scraped_at": "2025-09-21T05:26:19.703884",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-13900K",
+    "price": "€576.96",
+    "url": "https://fr.pcpartpicker.com/product/DhVmP6/intel-core-i9-13900k-3-ghz-24-core-processor-bx8071513900k",
+    "raw_text": "Intel Core i9-13900K\n24 3 GHz 5.8 GHz Raptor Lake 125 W Intel UHD Graphics 770 (65) €576.96Add",
+    "scraped_at": "2025-09-21T05:26:19.710751",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1230 V5 4 3",
+    "price": "€580.83",
+    "url": "https://fr.pcpartpicker.com/product/w4dFf7/intel-cpu-bx80662e31230v5",
+    "raw_text": "Intel Xeon E3-1230 V5\n4 3.4 GHz 3.8 GHz Skylake 80 W None (1) €580.83Add",
+    "scraped_at": "2025-09-21T05:26:19.717093",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD FX-6100 6 3",
+    "price": "€583.00",
+    "url": "https://fr.pcpartpicker.com/product/PkMFf7/amd-cpu-fd6100wmgusbx",
+    "raw_text": "AMD FX-6100\n6 3.3 GHz Bulldozer 95 W None (10) €583.00Add",
+    "scraped_at": "2025-09-21T05:26:19.730094",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Ryzen 3 2200G",
+    "price": "€583.29",
+    "url": "https://fr.pcpartpicker.com/product/RkJtt6/amd-ryzen-3-2200g-35ghz-quad-core-processor-yd2200c5fbbox",
+    "raw_text": "AMD Ryzen 3 2200G\n4 3.5 GHz 3.7 GHz Zen 65 W Radeon Vega 8 (134) €583.29Add",
+    "scraped_at": "2025-09-21T05:26:19.741902",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Threadripper 2920X 12 3",
+    "price": "€583.51",
+    "url": "https://fr.pcpartpicker.com/product/gnDJ7P/amd-threadripper-2920x-35-ghz-12-core-processor-yd292xa8afwof",
+    "raw_text": "AMD Threadripper 2920X\n12 3.5 GHz 4.3 GHz Zen+ 180 W None (1) €583.51Add",
+    "scraped_at": "2025-09-21T05:26:19.748192",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-11900K",
+    "price": "€588.88",
+    "url": "https://fr.pcpartpicker.com/product/mDcG3C/intel-core-i9-11900k-35-ghz-8-core-processor-bx8070811900k",
+    "raw_text": "Intel Core i9-11900K\n8 3.5 GHz 5.3 GHz Rocket Lake 125 W Intel UHD Graphics 750 (15) €588.88Add",
+    "scraped_at": "2025-09-21T05:26:19.754134",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-14900",
+    "price": "€589.99",
+    "url": "https://fr.pcpartpicker.com/product/3c7scf/intel-core-i9-14900-2-ghz-24-core-processor-bx8071514900",
+    "raw_text": "Intel Core i9-14900\n24 2 GHz 5.8 GHz Raptor Lake Refresh 65 W Intel UHD Graphics 770 (0) €589.99Add",
+    "scraped_at": "2025-09-21T05:26:19.759427",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1275 V3 4 3",
+    "price": "€597.20",
+    "url": "https://fr.pcpartpicker.com/product/HDtCmG/intel-cpu-bx80646e31275v3",
+    "raw_text": "Intel Xeon E3-1275 V3\n4 3.5 GHz 3.9 GHz Haswell 84 W Intel HD Graphics P4600 (0) €597.20Add",
+    "scraped_at": "2025-09-21T05:26:19.764644",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Ryzen 7 1800X",
+    "price": "€605.85",
+    "url": "https://fr.pcpartpicker.com/product/7qyxFT/amd-ryzen-7-1800x-36ghz-8-core-processor-yd180xbcaewof",
+    "raw_text": "AMD Ryzen 7 1800X\n8 3.6 GHz 4 GHz Zen 95 W None (51) €605.85Add",
+    "scraped_at": "2025-09-21T05:26:19.774761",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1275 V5 4 3",
+    "price": "€607.11",
+    "url": "https://fr.pcpartpicker.com/product/f68H99/intel-cpu-cm8066201934909",
+    "raw_text": "Intel Xeon E3-1275 V5\n4 3.6 GHz 4 GHz Skylake 80 W Intel HD Graphics P530 (0) €607.11Add",
+    "scraped_at": "2025-09-21T05:26:19.779780",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1225 V5 4 3",
+    "price": "€607.37",
+    "url": "https://fr.pcpartpicker.com/product/Yj2rxr/intel-cpu-bx80662e31225v5",
+    "raw_text": "Intel Xeon E3-1225 V5\n4 3.3 GHz 3.7 GHz Skylake 80 W Intel HD Graphics P530 (0) €607.37Add",
+    "scraped_at": "2025-09-21T05:26:19.784837",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core Ultra 9 285 24 2",
+    "price": "€608.91",
+    "url": "https://fr.pcpartpicker.com/product/sQZWGX/intel-core-ultra-9-285-25-ghz-24-core-processor-bx80768285",
+    "raw_text": "Intel Core Ultra 9 285\n24 2.5 GHz 5.6 GHz Arrow Lake 65 W Intel Xe (0) €608.91Add",
+    "scraped_at": "2025-09-21T05:26:19.790186",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-13900KS",
+    "price": "€624.39",
+    "url": "https://fr.pcpartpicker.com/product/TNLFf7/intel-core-i9-13900ks-3-ghz-24-core-processor-bx8071513900ks",
+    "raw_text": "Intel Core i9-13900KS\n24 3 GHz 6 GHz Raptor Lake 150 W Intel UHD Graphics 770 (14) €624.39Add",
+    "scraped_at": "2025-09-21T05:26:19.795368",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-2620 V4 8 2",
+    "price": "€627.15",
+    "url": "https://fr.pcpartpicker.com/product/XjZ2FT/intel-cpu-bx80660e52620v4",
+    "raw_text": "Intel Xeon E5-2620 V4\n8 2.1 GHz 3 GHz Broadwell 85 W None (3) €627.15Add",
+    "scraped_at": "2025-09-21T05:26:19.800528",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-2620 V2 6 2",
+    "price": "€634.12",
+    "url": "https://fr.pcpartpicker.com/product/6YMFf7/intel-cpu-bx80635e52620v2",
+    "raw_text": "Intel Xeon E5-2620 V2\n6 2.1 GHz 2.6 GHz Ivy Bridge 80 W None (0) €634.12Add",
+    "scraped_at": "2025-09-21T05:26:19.805791",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i7-7820X",
+    "price": "€648.48",
+    "url": "https://fr.pcpartpicker.com/product/C2dFf7/intel-i7-7820x-36ghz-8-core-processor-bx80673i77820x",
+    "raw_text": "Intel Core i7-7820X\n8 3.6 GHz 4.5 GHz Skylake 140 W None (10) €648.48Add",
+    "scraped_at": "2025-09-21T05:26:19.810828",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Opteron 6378 16 2",
+    "price": "€650.00",
+    "url": "https://fr.pcpartpicker.com/product/HZNp99/amd-cpu-os6378wktgghkwof",
+    "raw_text": "AMD Opteron 6378\n16 2.4 GHz 3.3 GHz Piledriver 115 W None (0) €650.00Add",
+    "scraped_at": "2025-09-21T05:26:19.816211",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1230 V6 4 3",
+    "price": "€657.69",
+    "url": "https://fr.pcpartpicker.com/product/pncMnQ/intel-xeon-e3-1230-v6-35ghz-quad-core-oemtray-processor-cm8067702870650",
+    "raw_text": "Intel Xeon E3-1230 V6\n4 3.5 GHz 3.9 GHz Kaby Lake 72 W None (0) €657.69Add",
+    "scraped_at": "2025-09-21T05:26:19.822931",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-13900",
+    "price": "€679.32",
+    "url": "https://fr.pcpartpicker.com/product/kNkWGX/intel-core-i9-13900-2-ghz-24-core-processor-bx8071513900",
+    "raw_text": "Intel Core i9-13900\n24 2 GHz 5.6 GHz Raptor Lake 65 W Intel UHD Graphics 770 (2) €679.32Add",
+    "scraped_at": "2025-09-21T05:26:19.828312",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Ryzen 7 1700X",
+    "price": "€679.63",
+    "url": "https://fr.pcpartpicker.com/product/9Q98TW/amd-ryzen-7-1700x-34ghz-8-core-processor-yd170xbcaewof",
+    "raw_text": "AMD Ryzen 7 1700X\n8 3.4 GHz 3.8 GHz Zen 95 W None (94) €679.63Add",
+    "scraped_at": "2025-09-21T05:26:19.833712",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-10850K",
+    "price": "€683.57",
+    "url": "https://fr.pcpartpicker.com/product/nGFKHx/intel-core-i9-10850k-36-ghz-10-core-processor-bx8070110850k",
+    "raw_text": "Intel Core i9-10850K\n10 3.6 GHz 5.2 GHz Comet Lake 125 W Intel UHD Graphics 630 (57) €683.57Add",
+    "scraped_at": "2025-09-21T05:26:19.844041",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E-2144G 4 3",
+    "price": "€689.00",
+    "url": "https://fr.pcpartpicker.com/product/CTc48d/intel-xeon-e-2144g-36-thz-quad-core-oemtray-processor-cm8068403654220",
+    "raw_text": "Intel Xeon E-2144G\n4 3.6 GHz 4.5 GHz Coffee Lake 71 W Intel HD Graphics P630 (0) €689.00Add",
+    "scraped_at": "2025-09-21T05:26:19.849073",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-2698 V4 20 2",
+    "price": "€700.32",
+    "url": "https://fr.pcpartpicker.com/product/GrDzK8/intel-xeon-e5-2698-v4-22ghz-20-core-oemtray-processor-cm8066002024000",
+    "raw_text": "Intel Xeon E5-2698 V4\n20 2.2 GHz 3.6 GHz Broadwell 135 W None (0) €700.32Add",
+    "scraped_at": "2025-09-21T05:26:19.854367",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-2630 V2 6 2",
+    "price": "€705.07",
+    "url": "https://fr.pcpartpicker.com/product/Wx4gXL/intel-cpu-bx80635e52630v2",
+    "raw_text": "Intel Xeon E5-2630 V2\n6 2.6 GHz 3.1 GHz Ivy Bridge 80 W None (0) €705.07Add",
+    "scraped_at": "2025-09-21T05:26:19.859459",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Athlon X4 760K 4 3",
+    "price": "€715.76",
+    "url": "https://fr.pcpartpicker.com/product/bHdqqs/amd-cpu-ad760kwohlbox",
+    "raw_text": "AMD Athlon X4 760K\n4 3.8 GHz 4.1 GHz Piledriver 100 W None (49) €715.76Add",
+    "scraped_at": "2025-09-21T05:26:19.869953",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i3-7350K",
+    "price": "€721.94",
+    "url": "https://fr.pcpartpicker.com/product/psPzK8/intel-core-i3-7350k-42ghz-dual-core-oemtray-processor-cm8067703014431",
+    "raw_text": "Intel Core i3-7350K\n2 4.2 GHz Kaby Lake 60 W Intel HD Graphics 630 (0) €721.94Add",
+    "scraped_at": "2025-09-21T05:26:19.874880",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1240 V6 4 3",
+    "price": "€734.00",
+    "url": "https://fr.pcpartpicker.com/product/dWx9TW/intel-xeon-e3-1240-v6-37ghz-quad-core-processor-bx80677e31240v6",
+    "raw_text": "Intel Xeon E3-1240 V6\n4 3.7 GHz 4.1 GHz Kaby Lake 72 W None (0) €734.00Add",
+    "scraped_at": "2025-09-21T05:26:19.884968",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-14900KS",
+    "price": "€738.80",
+    "url": "https://fr.pcpartpicker.com/product/3ZmNnQ/intel-core-i9-14900ks-32-ghz-24-core-processor-bx8071514900ks",
+    "raw_text": "Intel Core i9-14900KS\n24 3.2 GHz 6.2 GHz Raptor Lake Refresh 150 W Intel UHD Graphics 770 (2) €738.80Add",
+    "scraped_at": "2025-09-21T05:26:19.895595",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1260L V5 4 2",
+    "price": "€787.00",
+    "url": "https://fr.pcpartpicker.com/product/NRTrxr/intel-cpu-cm8066201921903",
+    "raw_text": "Intel Xeon E3-1260L V5\n4 2.9 GHz 3.9 GHz Skylake 45 W None (0) €787.00Add",
+    "scraped_at": "2025-09-21T05:26:19.910199",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1275 V6 4 3",
+    "price": "€799.48",
+    "url": "https://fr.pcpartpicker.com/product/F938TW/intel-xeon-e3-1275-v6-38ghz-quad-core-oemtray-processor-cm8067702870931",
+    "raw_text": "Intel Xeon E3-1275 V6\n4 3.8 GHz 4.2 GHz Kaby Lake 73 W Intel HD Graphics P630 (0) €799.48Add",
+    "scraped_at": "2025-09-21T05:26:19.915709",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E-2136 6 3",
+    "price": "€805.00",
+    "url": "https://fr.pcpartpicker.com/product/CQprxr/intel-xeon-e-2136-33-ghz-6-core-processor-bx80684e2136",
+    "raw_text": "Intel Xeon E-2136\n6 3.3 GHz 4.5 GHz Coffee Lake 80 W None (0) €805.00Add",
+    "scraped_at": "2025-09-21T05:26:19.926567",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1280 V6 4 3",
+    "price": "€808.83",
+    "url": "https://fr.pcpartpicker.com/product/3ncMnQ/intel-xeon-e3-1280-v6-39ghz-quad-core-oemtray-processor-cm8067702870647",
+    "raw_text": "Intel Xeon E3-1280 V6\n4 3.9 GHz 4.2 GHz Kaby Lake 72 W None (0) €808.83Add",
+    "scraped_at": "2025-09-21T05:26:19.937980",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-10900",
+    "price": "€816.70",
+    "url": "https://fr.pcpartpicker.com/product/wW7p99/intel-core-i9-10900-28-ghz-10-core-processor-bx8070110900",
+    "raw_text": "Intel Core i9-10900\n10 2.8 GHz 5.2 GHz Comet Lake 65 W Intel UHD Graphics 630 (3) €816.70Add",
+    "scraped_at": "2025-09-21T05:26:19.943596",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD FX-4100 4 3",
+    "price": "€822.20",
+    "url": "https://fr.pcpartpicker.com/product/cJrG3C/amd-cpu-fd4100wmgusbx",
+    "raw_text": "AMD FX-4100\n4 3.6 GHz Bulldozer 95 W None (16) €822.20Add",
+    "scraped_at": "2025-09-21T05:26:19.949077",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-10940X",
+    "price": "€855.07",
+    "url": "https://fr.pcpartpicker.com/product/fYWBD3/intel-core-i9-10940x-33-ghz-14-core-processor-bx8069510940x",
+    "raw_text": "Intel Core i9-10940X\n14 3.3 GHz 4.8 GHz Cascade Lake 165 W None (0) €855.07Add",
+    "scraped_at": "2025-09-21T05:26:19.954613",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-2699 V3 18 2",
+    "price": "€863.41",
+    "url": "https://fr.pcpartpicker.com/product/cPx9TW/intel-cpu-cm8064401739300",
+    "raw_text": "Intel Xeon E5-2699 V3\n18 2.3 GHz 3.6 GHz Haswell 145 W None (0) €863.41Add",
+    "scraped_at": "2025-09-21T05:26:19.960087",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1270 V5 4 3",
+    "price": "€881.00",
+    "url": "https://fr.pcpartpicker.com/product/Ty4NnQ/intel-cpu-bx80662e31270v5",
+    "raw_text": "Intel Xeon E3-1270 V5\n4 3.6 GHz 4 GHz Skylake 80 W None (0) €881.00Add",
+    "scraped_at": "2025-09-21T05:26:19.965674",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Ryzen 9 3900X",
+    "price": "€887.85",
+    "url": "https://fr.pcpartpicker.com/product/tLCD4D/amd-ryzen-9-3900x-36-ghz-12-core-processor-100-100000023box",
+    "raw_text": "AMD Ryzen 9 3900X\n12 3.8 GHz 4.6 GHz Zen 2 105 W None (280) €887.85Add",
+    "scraped_at": "2025-09-21T05:26:19.971380",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E-2286G 6 4 GHz 4",
+    "price": "€901.93",
+    "url": "https://fr.pcpartpicker.com/product/D2848d/intel-xeon-e-2286g-4-thz-6-core-oemtray-processor-cm8068404173706",
+    "raw_text": "Intel Xeon E-2286G\n6 4 GHz 4.9 GHz Coffee Lake Refresh 95 W Intel HD Graphics P630 (0) €901.93Add",
+    "scraped_at": "2025-09-21T05:26:19.976874",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E-2174G 4 3",
+    "price": "€904.00",
+    "url": "https://fr.pcpartpicker.com/product/G7x2FT/intel-xeon-e-2174g-38-thz-quad-core-oemtray-processor-cm8068403654221",
+    "raw_text": "Intel Xeon E-2174G\n4 3.8 GHz 4.7 GHz Coffee Lake 71 W Intel HD Graphics P630 (0) €904.00Add",
+    "scraped_at": "2025-09-21T05:26:19.982081",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-9820X",
+    "price": "€911.35",
+    "url": "https://fr.pcpartpicker.com/product/YG448d/intel-core-i9-9820x-33-ghz-10-core-processor-bx80673i99820x",
+    "raw_text": "Intel Core i9-9820X\n10 3.3 GHz 4.1 GHz Skylake 165 W None (2) €911.35Add",
+    "scraped_at": "2025-09-21T05:26:19.987452",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "AMD Ryzen 5 3600XT",
+    "price": "€959.38",
+    "url": "https://fr.pcpartpicker.com/product/7sFKHx/amd-ryzen-5-3600xt-38-ghz-6-core-processor-100-100000281box",
+    "raw_text": "AMD Ryzen 5 3600XT\n6 3.8 GHz 4.5 GHz Zen 2 95 W None (36) €959.38Add",
+    "scraped_at": "2025-09-21T05:26:19.992714",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E3-1270 V6 4 3",
+    "price": "€963.73",
+    "url": "https://fr.pcpartpicker.com/product/KLtWGX/intel-xeon-e3-1270-v6-38ghz-quad-core-oemtray-processor-cm8067702870648",
+    "raw_text": "Intel Xeon E3-1270 V6\n4 3.8 GHz 4.2 GHz Kaby Lake 72 W None (0) €963.73Add",
+    "scraped_at": "2025-09-21T05:26:19.998075",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-4650 8 2",
+    "price": "€981.63",
+    "url": "https://fr.pcpartpicker.com/product/w2JwrH/intel-cpu-bx80621e54650",
+    "raw_text": "Intel Xeon E5-4650\n8 2.7 GHz 3.3 GHz Sandy Bridge 130 W None (0) €981.63Add",
+    "scraped_at": "2025-09-21T05:26:20.003775",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E-2276G 6 3",
+    "price": "€1053.54",
+    "url": "https://fr.pcpartpicker.com/product/w6Dkcf/intel-xeon-e-2276g-38-thz-6-core-oemtray-processor-cm8068404227703",
+    "raw_text": "Intel Xeon E-2276G\n6 3.8 GHz 4.9 GHz Coffee Lake Refresh 80 W Intel HD Graphics P630 (1) €1053.54Add",
+    "scraped_at": "2025-09-21T05:26:20.019734",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-10920X",
+    "price": "€1075.58",
+    "url": "https://fr.pcpartpicker.com/product/2vZzK8/intel-core-i9-10920x-35-ghz-12-core-processor-bx8069510920x",
+    "raw_text": "Intel Core i9-10920X\n12 3.5 GHz 4.8 GHz Cascade Lake 165 W None (1) €1075.58Add",
+    "scraped_at": "2025-09-21T05:26:20.030603",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i7-9800X",
+    "price": "€1102.39",
+    "url": "https://fr.pcpartpicker.com/product/T4VD4D/intel-core-i7-9800x-38-ghz-8-core-processor-bx80673i79800x",
+    "raw_text": "Intel Core i7-9800X\n8 3.8 GHz 4.5 GHz Skylake 165 W None (0) €1102.39Add",
+    "scraped_at": "2025-09-21T05:26:20.036370",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Core i9-7900X",
+    "price": "€1189.11",
+    "url": "https://fr.pcpartpicker.com/product/wwBrxr/intel-core-i9-7900x-33ghz-10-core-oemtray-processor-cd8067303286804",
+    "raw_text": "Intel Core i9-7900X\n10 3.3 GHz 4.5 GHz Skylake 140 W None (0) €1189.11Add",
+    "scraped_at": "2025-09-21T05:26:20.042154",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-2687W 8 3",
+    "price": "€1489.00",
+    "url": "https://fr.pcpartpicker.com/product/7Jckcf/intel-cpu-bx80621e52687w",
+    "raw_text": "Intel Xeon E5-2687W\n8 3.1 GHz 3.8 GHz Sandy Bridge 150 W None (0) €1489.00Add",
+    "scraped_at": "2025-09-21T05:26:20.053498",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  },
+  {
+    "name": "Intel Xeon E5-2690 V2 10 3 GHz 3",
+    "price": "€4210.00",
+    "url": "https://fr.pcpartpicker.com/product/YnYXsY/intel-cpu-bx80635e52690v2",
+    "raw_text": "Intel Xeon E5-2690 V2\n10 3 GHz 3.6 GHz Ivy Bridge 130 W None (1) €4210.00Add",
+    "scraped_at": "2025-09-21T05:26:20.064335",
+    "source": "fr.pcpartpicker.com",
+    "page": 5
+  }
+]

@@ -48,9 +48,12 @@ Thumbs.db
 temp_price_*.json
 *.lock
 downloaded_files/
-french_*.json
+french_*precise*.json
 leboncoin_graphics_cards_*.json
 pc_mix_*.json
+
+# Allow precise market data files
+!french_*precise*.json
 
 # API Keys (keep openrouter.txt but be careful)
 # openrouter.txt
