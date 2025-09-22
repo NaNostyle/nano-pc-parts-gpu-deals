@@ -14,6 +14,17 @@ import os
 from typing import List, Dict, Any, Optional
 from datetime import datetime
 
+# Load environment variables from .env file if it exists
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    # dotenv is optional, continue without it
+    pass
+
+# Get OpenRouter API key from environment variable
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+
 # Import the scraping packages
 try:
     from pyVinted import Vinted
@@ -680,15 +691,15 @@ Answer:"""
 
 def main():
     """Main function"""
-    # Load OpenRouter API key
-    try:
-        with open('openrouter.txt', 'r') as f:
-            lines = f.read().strip().split('\n')
-            api_key = lines[0].split('=')[1] if '=' in lines[0] else lines[0]
-            model = lines[1].split('=')[1] if len(lines) > 1 and '=' in lines[1] else "x-ai/grok-4-fast:free"
-    except Exception as e:
-        print(f"❌ Error loading OpenRouter API key: {e}")
+    # Load OpenRouter API key from environment variable
+    api_key = OPENROUTER_API_KEY
+    if not api_key:
+        print("❌ Error: OPENROUTER_API_KEY environment variable not set")
+        print("Please set it with: export OPENROUTER_API_KEY='your-api-key-here'")
+        print("Or create a .env file with: OPENROUTER_API_KEY=your-api-key-here")
         return
+    
+    model = "x-ai/grok-4-fast:free"  # Default model
     
     # Initialize scraper
     scraper = GPUScraper(api_key)
