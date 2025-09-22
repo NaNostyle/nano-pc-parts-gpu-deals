@@ -16,7 +16,7 @@ An AI-powered GPU deal finder that scrapes Vinted and Leboncoin for graphics car
 The system successfully finds incredible deals:
 - **RX 570 4Go**: €37 vs €576.78 market (94% below market!)
 - **GTX 1060 6Go**: €60 vs €922.36 market (93% below market!)
-- **GTX 1660ti**: €20 vs €299.0 market (93% below market!)
+- **GTX 1660ti**: €20 vs €299.0 market (93% below market!
 
 ## 🛠️ Installation
 
